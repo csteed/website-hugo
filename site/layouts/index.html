@@ -1,9 +1,95 @@
 {{ define "main" }}
 
-<h1>Hugo with Webpack, Sass, and PostCSS</h1>
+<div id="about">
+  <p>
+    I design interactive data visualization systems that combine automated
+    statistical analytics with interactive data visualization to enhance human
+    exploration and comprehension of data. My research spans the full spectrum
+    of data science, including interactive data visualization, data mining,
+    human-computer interaction, visual perception, databases, and graphic
+    design. The techniques and systems that arise from my research are evaluated
+    in the context of many data-rich, scientific domains, such as additive
+    manufacturing, climate, neutron scattering, text mining, health care, and
+    cyber security.
+  </p>
+  <p>
+    My projects usually begin with a domain expert who needs to analyze a
+    complicated data set that exceeds the capabilities of ordinary data
+    visualization tools. Working closely with the experts, I design new tools
+    using the latest advances in interactive data visualization. These tools
+    often feature new visual representations of data, new interaction methods
+    with the representations, and automatic statistical analytics that guide the
+    user to the important patterns. As the tools evolve, updated releases are
+    provided to the experts, which they evaluate in real data analysis
+    scenarios.
+  </p>
+</div>
 
-<h3>Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!</h3>
+<div id="about_imgs">
+  <table width="0" border="0" cellspacing="2" cellpadding="2">
+    <tr>
+      <td>
+        <a href="projects/"
+          ><img
+            src="img/aerial-pcp.png"
+            alt="aerial perspective shading on parallel coordinates"
+            width="140"
+            height="173"
+        /></a>
+      </td>
+      <td>
+        <a href="projects/"
+          ><img
+            src="img/illustrative_hurricane_vis.png"
+            alt="illustrative visualization of hurricane advisories"
+            width="140"
+            height="173"
+        /></a>
+      </td>
 
-<a href="{{ "/tech" | relURL }}">Check out the tech</a>
-
+      <td rowspan="2">
+        <a href="projects/"
+          ><img
+            src="img/jray-perlin.png"
+            alt="Java ray tracer showing Perlin noise texture on a sphere"
+            width="140"
+            height="354"
+        /></a>
+      </td>
+      <td>
+        <a href="projects/"
+          ><img
+            src="img/waterfall.png"
+            alt="waterfall visualization for time series data"
+            width="140"
+            height="173"
+        /></a>
+      </td>
+      <!-- <td><a href="projects/"><img src="img/everest.png" alt="EDEN" width="280" height="173" /></a></td>
+        <td><a href="projects/"><img src="img/waterfall.png" alt="Matisse" width="280" height="173" /></a></td> -->
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="projects/"
+          ><img
+            src="img/everest.png"
+            alt="EDEN on EVEREST"
+            width="288"
+            height="173"
+        /></a>
+      </td>
+      <td>
+        <a href="projects/"
+          ><img
+            src="img/matisse.png"
+            alt="time-oriented visualization of social media sentiment"
+            width="140"
+            height="173"
+        /></a>
+      </td>
+      <!-- <td><a href="projects/"><img src="images/gryffin-thumbnail.png" alt="Gryffin" width="280" height="173" /></a></td>
+        <td><a href="projects/"><img src="images/mdx_thumbnail.png" alt="MDX" width="280" height="173" /></a></td> -->
+    </tr>
+  </table>
+</div>
 {{ end }}

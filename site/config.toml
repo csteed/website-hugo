@@ -1,9 +1,48 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Chad A. Steed's Website"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[menu]
+  [[menu.nav]]
+    name = "home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.nav]]
+    name = "publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.nav]]
+    name = "artwork"
+    url = "/art/"
+    weight = 5
+  [[menu.nav]]
+    name = "writings"
+    url = "/writings/"
+    weight = 6
+  [[menu.nav]]
+    name = "bio"
+    url = "/bio/"
+    weight = 7
+  [[menu.nav]]
+    name = "vita"
+    url = "https://github.com/csteed/vitae/raw/master/chadsteed_cv.pdf"
+    weight = 8
+
+[params]
+  includeBootstrapJs = false
+  showActiveNav = true
+  containerMaxWidth = "700px"
+  dateFormat = "Jan 2, 2006"
+  homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
+  footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+  hideFooter = false

@@ -7,18 +7,23 @@
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
   <title>{{ $.Site.Title }}</title>
 
+  
+
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
+  
 </head>
 
 <body>
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
+  {{ block "sidebar" . }}{{ partial "sidebar" . }}{{end}}
 
-  {{ block "main" . }}{{end}}
-
+  <div id="main">
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
+    {{ block "main" . }}{{end}}
+  </div>
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
   {{ $script := .Site.Data.webpack.main }}
