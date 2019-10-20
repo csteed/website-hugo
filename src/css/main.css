@@ -7,9 +7,10 @@
   Or add your statements here:
  */
 body {
-  font-family: 'Lato', Verdana, Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Lato', Verdana, Helvetica, Arial, sans-serif; */
   font-size: 12px;
-  line-height: 1.3em;
+  line-height: 1.4em;
   /* font-size: calc(10px + 1vmin); */
   /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', */
     /* 'Droid Sans', 'Helvetica Neue', sans-serif; */
@@ -34,14 +35,15 @@ body {
 }
 
 #name {
-  font-family: 'Lato', Verdana, Helvetica, Arial, sans-serif;
+  font-family: 'Varela Round', sans-serif;
+  /* font-family: 'Lato', Verdana, Helvetica, Arial, sans-serif; */
 	font-variant: small-caps;
-	font-size: 28px;
-  /*color: rgb(87, 163, 213);*/
+	font-size: 34px;
+  /* color: rgb(87, 163, 213); */
 	margin-top: 10px;
 	margin-bottom: 15px;
 	letter-spacing: 0.5px;
-  /*border-bottom: 2px solid #888;*/
+  /* border-bottom: 2px solid #888; */
 }
 
 /*#name a {
@@ -63,7 +65,8 @@ body {
 p { margin: 0px 0px 12px 0px; }
 
 h1 {
- font-family: 'Lato', Helvetica, Arial, sans-serif;
+ /* font-family: 'Varela Round', sans-serif; */
+ /* font-family: 'Lato', Helvetica, Arial, sans-serif; */
  font-size: 20px;
  font-weight: bold;
  margin: 0 0 15px 0;
@@ -80,11 +83,13 @@ h6 {
 }
 
 h2 {
+  font-family: 'Varela Round', sans-serif;
 	/*font-family:  "Times New Roman", Times, serif;*/
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
- font-size: 13px;
+	/* font-family: 'Lato', Helvetica, Arial, sans-serif; */
+ font-size: 16px;
  font-weight: bold;
- /*margin: 0 0 15px 0;*/
+ /* margin-top: 20px; */
+ /* margin: 0 0 15px 0; */
 }
 
 h3 {
@@ -123,25 +128,31 @@ a:hover, a.nav:hover { color: #1a1aff; }
 }
 
 #contact {
+  font-family: 'Varela Round', sans-serif;
 	float: right;
 	text-align: right;
 }
 
 #navigate {
-	float:left;
+	/* float:left; */
 	/* margin-top:14px; */
   /* width: 100%; */
   /*width: 600px;*/
   margin-bottom: 10px;
+  width: 600px;
+/* margin-top:32px; */  
+  margin-top: 12px;
+  margin-left: 280px;
 }
 
 #navigate h1 {
+  font-family: 'Varela Round', sans-serif;
 	/*font-family:  "Times New Roman", Times, serif;*/
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	/* font-family: 'Lato', Helvetica, Arial, sans-serif; */
  font-size: 18px;
  font-weight: bold;
  margin: 0px 0px 5px 0px;
- text-align:right;
+ /* text-align:right; */
  /*font-variant: small-caps;*/
 }
 
@@ -163,7 +174,7 @@ a:hover, a.nav:hover { color: #1a1aff; }
 /* float: left; */
 width: 600px;
 /* margin-top:32px; */
-margin-top: 13px;
+margin-top: 30px;
 margin-left: 280px;
 }
 
@@ -249,18 +260,19 @@ margin-top:26px;
 
 
 #project_group h1 {
- font-size: 16px;
+ /* font-size: 16px; */
  line-height:17px;
  font-weight: bold;
  font-variant: small-caps;
- font-family: "Raleway", Helvetica, Arial, sans-serif;
+ font-family: 'Varela Round', sans-serif;
+ /* font-family: "Raleway", Helvetica, Arial, sans-serif; */
  /*margin: 1px 2px 3px 4px;*/
  border-bottom: 1px dotted #888;
 }
 
 
 #project {
-	float:left;
+  float:left;
 }
 
 #project_text {
@@ -274,6 +286,11 @@ margin-top:26px;
 	margin:inherit;
 }
 
+/* #project_text a {
+  color:#000;
+  text-decoration: underline;
+} */
+
 #project_text a.nav {
 	color:#000;
 }
@@ -283,8 +300,10 @@ margin-top:26px;
 	}
 
 #project p {
-	margin-left:20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
+
 
 #project_img {
 	float:right;

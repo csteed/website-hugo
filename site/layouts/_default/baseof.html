@@ -13,6 +13,8 @@
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
+
+  {{ partial "google-fonts" . }}
   
 </head>
 
@@ -20,8 +22,9 @@
 
   {{ block "sidebar" . }}{{ partial "sidebar" . }}{{end}}
 
+  {{ block "header" . }}{{ partial "header" . }}{{end}}
   <div id="main">
-    {{ block "header" . }}{{ partial "header" . }}{{end}}
+    
     {{ block "main" . }}{{end}}
   </div>
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
