@@ -1,0 +1,156 @@
+[
+  {
+    "title":"Question 1",
+    "subtitle":"Course as a whole",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.40],
+    "markers":[3.70, 3.50]
+  },
+  {
+    "title":"Question 2",
+    "subtitle":"Course content",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.20],
+    "markers":[3.78, 3.81]
+  },
+  {
+    "title":"Question 3",
+    "subtitle":"Instructor's contribution to the course",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.8],
+    "markers":[3.81, 4.01]
+  },
+  {
+    "title":"Question 4",
+    "subtitle":"Instructor's effectiveness in teaching material",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.6],
+    "markers":[3.65, 3.84]
+  },
+  {
+    "title":"Question 5",
+    "subtitle":"Course organization",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.1],
+    "markers":[3.75, 3.81]
+  },
+  {
+    "title":"Question 6",
+    "subtitle":"Clarity of instructor's voice",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.5],
+    "markers":[3.92, 4.07]
+  },
+  {
+    "title":"Question 7",
+    "subtitle":"Explanations by instructor",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.7],
+    "markers":[3.73, 3.91]
+  },
+  {
+    "title":"Question 8",
+    "subtitle":"Ability to present alternative explanations",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.7],
+    "markers":[3.73, 3.88]
+  },
+  {
+    "title":"Question 9",
+    "subtitle":"Use of examples and illustrations",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.9],
+    "markers":[3.85, 4.02]
+  },
+  {
+    "title":"Question 10",
+    "subtitle":"Quality of questions/problems raised by instructor",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.6],
+    "markers":[3.79, 3.92]
+  },
+  {
+    "title":"Question 11",
+    "subtitle":"Students' confidence in instructor's knowledge",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.9],
+    "markers":[4.19, 4.23]
+  },
+  {
+    "title":"Question 12",
+    "subtitle":"Instructor's enthusiasm",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.9],
+    "markers":[4.08, 4.2]
+  },
+  {
+    "title":"Question 13",
+    "subtitle":"Encouragement given to students' self expression",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.80],
+    "markers":[3.87, 4]
+  },
+  {
+    "title":"Question 14",
+    "subtitle":"Answers to students' questions",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.4],
+    "markers":[3.84, 3.97]
+  },
+  {
+    "title":"Question 15",
+    "subtitle":"Availability of extra help when needed",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.6],
+    "markers":[3.89, 3.97]
+  },
+  {
+    "title":"Question 16",
+    "subtitle":"Use of class time",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.0],
+    "markers":[3.75, 3.89]
+  },
+  {
+    "title":"Question 17",
+    "subtitle":"Interest in whether students learned",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.6],
+    "markers":[3.93, 4.02]
+  },
+  {
+    "title":"Question 18",
+    "subtitle":"Amount you learned in the course",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.4],
+    "markers":[3.73, 3.8]
+  },
+  {
+    "title":"Question 19",
+    "subtitle":"Relevance and usefulness of course content",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.7],
+    "markers":[3.91, 3.88]
+  },
+  {
+    "title":"Question 20",
+    "subtitle":"Evaluative and grading techniques",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.6],
+    "markers":[3.73, 3.8]
+  },
+  {
+    "title":"Question 21",
+    "subtitle":"Reasonableness of assigned work",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.3],
+    "markers":[3.72, 3.9]
+  },
+  {
+    "title":"Question 22",
+    "subtitle":"Clarity of students' responsibilities/requirements",
+    "ranges":[1.5,3.5,5],
+    "measures":[4.4],
+    "markers":[3.9, 3.98]
+  }
+]

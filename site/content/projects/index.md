@@ -19,7 +19,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <a href="http://csteed.com/PCPChart"><img src="img/projects/PCPChart/PCPChart-thumbnail.png" alt="PCPChart"/></a>
+        <a href="http://csteed.com/PCPChart"><img src="projects/PCPChart/PCPChart-thumbnail.png" alt="PCPChart"/></a>
     </div>
 </div>
 
@@ -31,31 +31,31 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <a href="http://csteed.com/StackedTimeCharts"><img src="./StackedTimeCharts/StackedTimeCharts-thumbnail.png" alt="StackedTimeCharts"/></a>
+        <a href="http://csteed.com/StackedTimeCharts"><img src="projects/StackedTimeCharts/StackedTimeCharts-thumbnail.png" alt="StackedTimeCharts"/></a>
     </div>
 </div>
 
 <div id="project">
     <div id="project_text">
-        <a href="./bankStockPCPVis/index.html"><h3>Multivariate Bank Stock Performance Visualizations</h3></a>
+        <a href="projects/bankStockPCPVis/"><h3>Multivariate Bank Stock Performance Visualizations</h3></a>
         <p>This page shows a web-based parallel coordinates visualization of bank stock performance data using <a href="https://d3js.org" target="_blank">d3.js</a>. The visualizations use stock market data covering 5 years from <a href="https://www.kaggle.com/camnugent/sandp500" target="_blank">Kaggle</a>.<br/>
         <b>PCP Visualization:</b> <a class="nav" href="./bankStockPCPVis/index.html">BankPCPVis</a>
         </p>
     </div>
     <div id="project_img">
-        <a href="./bankStockPCPVis/index.html"><img src="./bankStockPCPVis/bankVis_thumbnail.png" alt="BankVis"/></a>
+        <a href="./bankStockPCPVis/index.html"><img src="projects/bankStockPCPVis/bankVis_thumbnail.png" alt="BankVis"/></a>
     </div>
 </div>
 
 <div id="project">
     <div id="project_text">
-        <a href="./bankStockTimeVis/index.html"><h3>Temporal Bank Stock Performance Visualizations</h3></a>
+        <a href="projects/bankStockTimeVis/index.html"><h3>Temporal Bank Stock Performance Visualizations</h3></a>
         <p>This project is a collage of web-based temporal visualizations examining the performance of selected banks' stock using <a href="https://d3js.org" target="_blank">d3.js</a>. The visualizations use stock market data covering 5 years from <a href="https://www.kaggle.com/camnugent/sandp500" target="_blank">Kaggle</a>.<br/>
         <b>Time Visualizations:</b> <a class="nav" href="./bankStockTimeVis/index.html">BankTimeVis</a>
         </p>
     </div>
     <div id="project_img">
-        <a href="./bankStockTimeVis/index.html"><img src="./bankStockTimeVis/bankVis_thumbnail.png" alt="BankVis"/></a>
+        <a href="./bankStockTimeVis/index.html"><img src="projects/bankStockTimeVis/bankVis_thumbnail.png" alt="BankVis"/></a>
     </div>
 </div>
 
@@ -67,7 +67,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <a href="./utk557/index.html"><img src="./utk557/utk557_thumbnail.png" alt="UTK557Vis"/></a>
+        <a href="./utk557/index.html"><img src="projects/utk557/utk557_thumbnail.png" alt="UTK557Vis"/></a>
     </div>
 </div>
 
@@ -85,7 +85,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <a href="./crossvis/CrossVis.png"><img src="./crossvis/CrossVis_thumbnail.png" width="127" height="91" alt="CrossVis"/></a>
+        <a href="./crossvis/CrossVis.png"><img src="projects/crossvis/CrossVis_thumbnail.png" width="127" height="91" alt="CrossVis"/></a>
     </div>
 </div>
 
@@ -100,7 +100,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
 
     </div>
     <div id="project_img">
-        <img src="./edenfx/edenfx_thumbnail.png" width="125" height="62" alt="EDEN.fx"/>
+        <img src="projects/edenfx/edenfx_thumbnail.png" width="125" height="62" alt="EDEN.fx"/>
     </div>
 </div>
 
@@ -115,7 +115,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./falcon/falcon_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/falcon/falcon_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -133,7 +133,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./sns-vr/snsvr_thumbnail.png" width="125" height="62" alt="Immersive Data Visualization"/>
+        <img src="projects/sns-vr/snsvr_thumbnail.png" width="125" height="62" alt="Immersive Data Visualization"/>
     </div>
 </div>
 
@@ -147,7 +147,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./eden/eden_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/eden/eden_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -161,7 +161,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./multivar/multivar_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/multivar/multivar_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -174,7 +174,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./matisse/matisse_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/matisse/matisse_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -187,7 +187,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./gryffin/gryffin_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/gryffin/gryffin_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -199,7 +199,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./jmuse/jmuse_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/jmuse/jmuse_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -211,7 +211,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./stormbrush/stormbrush_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/stormbrush/stormbrush_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -225,7 +225,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./mdx/mdx_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/mdx/mdx_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>
 
@@ -243,6 +243,6 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         </p>
     </div>
     <div id="project_img">
-        <img src="./jRay/jray_thumbnail.png" width="125" height="62" alt="Falcon"/>
+        <img src="projects/jRay/jray_thumbnail.png" width="125" height="62" alt="Falcon"/>
     </div>
 </div>

@@ -46,7 +46,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
   homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
-  
+
   google_fonts = [
     ["Fira Code", "400, 700"],
     ["Open Sans", "400, 400i, 700, 700i"]

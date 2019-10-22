@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chad A. Steed · UTK 557 Course Assessments</title>
+<meta charset="utf-8">
+<style>
+
+  body {
+    font-family: "Georgia", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+//    width: 400px;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2.5em;
+  }
+
+  h1, h2, h3 {
+    font-weight: 300;
+  }
+
+  p {
+    font-size: ;
+    line-height: 1.5em;
+  }
+
+  .bullet { font: 10px sans-serif; }
+  .bullet .marker.s0 { stroke: #000000; stroke-width: 3px; }
+  .bullet .marker.s1 { stroke: #606366; stroke-width: 3px; }
+  .bullet .tick line { stroke: #666; stroke-width: .5px; }
+  .bullet .range.s0 { fill: #ddd; }
+  .bullet .range.s1 { fill: #ccc; }
+  .bullet .range.s2 { fill: #bbb; }
+  .bullet .measure.s0 { fill: red; }
+  .bullet .title { font-size: 14px; font-weight: bold; }
+  .bullet .subtitle { font-size: 11px; fill: #606366; }
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39778348-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<h2>UTK COSC 557 (Data Visualization) Fall 2013 Student Assessments</h2>
+<h3>Taught by Dr.&nbsp;Chad A.&nbsp;Steed</h3>
+<p>The assessment scores are graphically represented as <a href="http://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf" target="_blank">bullet charts</a>.
+Bullet charts compare the quantitative measure (the red bar shows the mean score for each question) with qualitative ranges (gray regions for poor, satisfactory, good) and related markers (the black 
+marker for the UTK EECS College mean score and the dark gray marker for the overall UTK University mean score). This bullet chart implementation uses the <a href="http://d3js.org" target="_blank">d3.js</a> javascript visualization library.  The scoring scale for these questions is: (5-excellent, 4-very good, 3-good, 2-fair, 1-poor, 0-very poor).  These scores are from the graduate students in the class with 10 of the 12 students participating.
+
+<div id="charts"></div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="bullet.js"></script>
+<script>
+var margin = {top: 5, right: 40, bottom: 20, left: 260},
+    width = 440 - margin.left - margin.right,
+    height = 40 - margin.top - margin.bottom;
+
+var chart = d3.bullet()
+    .width(width)
+    .height(height);
+
+d3.json("bulletdata.json", function(error, data) {
+  //data.forEach(function(d) {
+  //  d.all_markers = d.markers;
+  //  d.markers = new Array();
+  //  d.markers[0] = d.all_markers[0];
+  //  console.log(d);
+  //});
+  
+
+  var svg = d3.select("#charts").selectAll("svg")
+      .data(data)
+    .enter().append("svg")
+      .attr("class", "bullet")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .call(chart);
+
+  var title = svg.append("g")
+      .style("text-anchor", "end")
+      .attr("transform", "translate(-6," + height / 2 + ")");
+
+  title.append("text")
+      .attr("class", "title")
+      .text(function(d) { return d.title; });
+
+  title.append("text")
+      .attr("class", "subtitle")
+      .attr("dy", "1em")
+      .text(function(d) { return d.subtitle; });
+});
+
+</script>
+
+<center>
+  <p>&copy; Chad A. Steed 
+  <script type="text/javascript">
+    document.write(new Date().getFullYear());
+  </script>
+  </p>
+</center>
+
+</body>
+</html>

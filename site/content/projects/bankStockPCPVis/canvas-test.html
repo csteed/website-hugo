@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head></head>
+<body>
+<div id='d1' style="position:absolute; top:0px; left:0px; z-index:1">  
+    <canvas id='canvas1' width='400' height='280' style="position:absolute; top:0px; left:0px; z-index:1">
+        Your browser does not support HTML5 Canvas.
+    </canvas>
+    <canvas id='canvas2' stylewidth='400' height='280' style="position:absolute; top:0px; left:0px; z-index:2">
+        Your browser does not support HTML5 Canvas.
+    </canvas>
+    <canvas id='canvas3' width='400' height='280' style="position:absolute; top:0px; left:0px; z-index:3">
+        Your browser does not support HTML5 Canvas.
+    </canvas>
+</div>
+<script>
+    let canvas1 = document.getElementById("canvas1");
+    let ctx1 = canvas1.getContext("2d")
+    // ctx1.fillStyle = 'steelblue';
+    // ctx1.fillRect(0, 0, canvas1.width, canvas1.height);
+    ctx1.strokeStyle = 'rgba(0, 100, 160, 0.25)';
+    ctx1.beginPath();
+    ctx1.moveTo(0, canvas1.height);
+    ctx1.lineTo(canvas1.width, 0);
+    ctx1.stroke();
+
+    console.log(canvas1);
+    let canvas2 = document.getElementById("canvas2");
+    let ctx2 = canvas2.getContext("2d");
+    // ctx2.fillStyle = 'lightgray';
+    // ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+    ctx2.strokeStyle = 'rgba(0, 100, 160, 0.25)';
+    ctx2.beginPath();
+    ctx2.moveTo(0, 0);
+    ctx2.lineTo(canvas2.width, canvas2.height);
+    ctx2.stroke();
+    
+    let canvas3 = document.getElementById("canvas3");
+    let ctx3 = canvas3.getContext("2d");
+    // ctx3.fillStyle = 'ghostwhite';
+    // ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
+    ctx3.strokeStyle = 'rgba(0, 100, 160, 0.25)';
+    ctx3.beginPath();
+    ctx3.moveTo(0, canvas3.height / 2);
+    ctx3.lineTo(canvas3.width, canvas3.height / 2);
+    ctx3.stroke();
+</script>
+</body>
+</html>

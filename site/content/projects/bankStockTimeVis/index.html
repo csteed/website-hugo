@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+    <script type="text/javascript" src="d3.min.js"></script>
+    <script type="text/javascript" src="multilineTimeSeriesChart.js"></script>
+    <script type="text/javascript" src="timeseriesLineChart.js"></script>
+    <script type="text/javascript" src="pcpCanvasChart.js"></script>
+    <style>
+      body{
+        font: 12px sans-serif;
+        margin: 4px 20px 0px 80px;
+        background: whitesmoke;
+        /*margin: 0;*/
+      }
+    </style>
+  </head>
+  <body>
+    <center><h2>Temporal Bank Stock Performance</h2></center>
+    <div id="multiChart">
+      <center>
+        <h3>Overview Comparison Chart</h3>
+        <label>Chart Line Metric:</label>
+        <select class="select-metric" id="metric-select" onChange="metricChanged()">
+          <option>Open</option>
+          <option>High</option>
+          <option>Low</option>
+          <option selected>Close</option>
+          <option>Volume</option>
+        </select>
+      </center>
+    </div>
+    <hr/>
+    <div id="individualCharts">
+      <center><h3>Zooming Individual Charts</h3></center>
+    </div>
+
+    <center>
+        <p>&copy; <a href="http://csteed.com">Chad A. Steed</a>
+        <script type="text/javascript">
+            document.write(new Date().getFullYear());
+        </script>
+        </p>
+    </center>
+
+    <script>
+      let multiChart;
+      let bankData = [];
+      const margin = {top: 40, right: 20, bottom: 40, left: 90};
+
+      let symbolNameMap = new Map();
+      symbolNameMap.set("BAC", "Bank of America Corp");
+      symbolNameMap.set("BBT", "BB&T Corporation");
+      symbolNameMap.set("C", "Citigroup");
+      symbolNameMap.set("COF", "Capital One Financial Corp.");
+      symbolNameMap.set("CFG", "Citizens Financial Group Inc");
+      symbolNameMap.set("RF", "Regions Financial Corp");
+      symbolNameMap.set("STI", "SunTrust Banks, Inc.");
+      symbolNameMap.set("USB", "U.S. Bancorp");
+      symbolNameMap.set("WFC", "Wells Fargo & Co");
+      let bankDataFiles = ['data/BAC_data.csv', 'data/BBT_data.csv', 'data/C_data.csv', 'data/CFG_data.csv', 'data/COF_data.csv', 'data/RF_data.csv', 'data/STI_data.csv', 'data/USB_data.csv', 'data/WFC_data.csv'];
+
+      const type = (d) => {
+        return {
+          date: new Date(d.date),
+          open: +d.open,
+          high: +d.high,
+          low: +d.low,
+          close: +d.close,
+          volume: +d.volume,
+        }
+      }
+
+      function metricChanged() {
+        const select = document.getElementById('metric-select');
+        const selectedMetric = select.options[select.selectedIndex].text;
+        console.log(`selected metric is ${selectedMetric}`);
+
+        if (selectedMetric === 'Open') {
+          multiChart.yAxisTitle('Opening Price');
+          multiChart.yValue((d) => d.open);
+        } else if (selectedMetric === 'Close') {
+          multiChart.yAxisTitle('Closing Price');
+          multiChart.yValue((d) => d.close);
+        } else if (selectedMetric === 'High') {
+          multiChart.yAxisTitle('Highest Price')
+          multiChart.yValue((d) => d.high);
+        } else if (selectedMetric === 'Low') {
+          multiChart.yAxisTitle('Lowest Price')
+          multiChart.yValue((d) => d.low);
+        } else if (selectedMetric === 'Volume') {
+          multiChart.yAxisTitle('Trading Volume')
+          multiChart.yValue((d) => d.volume);
+        }
+      }
+
+      function createIndividualCharts(data) {
+        let divWidth = document.getElementById("individualCharts").clientWidth;
+        console.log(divWidth);
+        data.forEach(function (d) {
+          let chartDiv = document.createElement("div");
+          chartDiv.id = `${d.symbol}Chart`;
+          chartDiv.style.padding = "0px 10px";
+          document.getElementById("individualCharts").append(chartDiv);
+          let chart = timeseriesLineChart()
+            .margin(margin)
+            .width(divWidth)
+            .height(180)
+            .dateValue((d) => d.date)
+            .yValue((d) => d.close)
+            .lowValue((d) => d.low)
+            .highValue((d) => d.high)
+            .titleText(`${d.symbol}: ${symbolNameMap.get(d.symbol)} Closing Price with High/Low Range`);
+          d3.select(`#${d.symbol}Chart`).call(chart, d.values);
+        });
+      }
+
+      function createMultiSeriesChart(data, chartDivID, chartTitle) {
+        let divWidth = document.getElementById(chartDivID).clientWidth;
+        
+        let chart = multilineTimeSeriesChart()
+          .margin(margin)
+          .width(divWidth)
+          .height(300)
+          .xValue((d) => d.date)
+          .yValue((d) => d.close)
+          .categoryValue((d) => d.symbol)
+          .lineOpacity(0.75)
+          .xAxisTitle('Date')
+          .yAxisTitle('Close Value')
+          .titleText(chartTitle);
+        
+        d3.select('#multiChart').call(chart, data);
+
+        return chart;
+      }
+
+      bankData = [];
+      Promise.all([
+        d3.csv(bankDataFiles[0], type),
+        d3.csv(bankDataFiles[1], type),
+        d3.csv(bankDataFiles[2], type),
+        d3.csv(bankDataFiles[3], type),
+        d3.csv(bankDataFiles[4], type),
+        d3.csv(bankDataFiles[5], type),
+        d3.csv(bankDataFiles[6], type),
+        d3.csv(bankDataFiles[7], type),
+        d3.csv(bankDataFiles[8], type),
+      ]).then( function (files) {
+        for (let i = 0; i < files.length; i++) {
+          const file = files[i];
+          const symbol = bankDataFiles[i].substring(bankDataFiles[i].indexOf('/') + 1, bankDataFiles[i].indexOf('_'));
+          file.sort( function (a, b) {
+            if (a.date < b.date) {
+              return -1;
+            } else if (a.date > b.date) {
+              return 1;
+            }
+            return 0;
+          });
+          bankData.push({
+            symbol: symbol,
+            values: file,
+          });
+        }
+        console.log(bankData);
+        multiChart = createMultiSeriesChart(bankData, "multiChart", "Comparison of Banks' Stock Performance")
+        createIndividualCharts(bankData);
+      }).catch(function (error) {
+          console.log(error);
+      });
+    </script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-39778348-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  </script>
+  </body>
+</html>
