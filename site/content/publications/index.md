@@ -8,11 +8,11 @@ draft: false
 
 ---
 
-J10. **Deep Data Analytics for Genetic Engineering of Diatoms Linking Genotype to Phenotype via Machine Learning**. Artem A. Trofimov, Alison A. Pawlicki, Nikolay Borodinov, Shovon Mandal, Teresa J. Mathews, Mark Hildebrand, Maxim A. Ziatdinov, Katherine A. Hausladen, Paulina K. Urbanowicz, **Chad A. Steed**, Anton V. Ievlev, Alex Belianinov, Joshua K. Michener, Rama Vasudevan, and Olga S. Ovchinnikova. *npj Computational Materials*, 5:4, 2019.
+J10. [**Deep Data Analytics for Genetic Engineering of Diatoms Linking Genotype to Phenotype via Machine Learning**. Artem A. Trofimov, Alison A. Pawlicki, Nikolay Borodinov, Shovon Mandal, Teresa J. Mathews, Mark Hildebrand, Maxim A. Ziatdinov, Katherine A. Hausladen, Paulina K. Urbanowicz, **Chad A. Steed**, Anton V. Ievlev, Alex Belianinov, Joshua K. Michener, Rama Vasudevan, and Olga S. Ovchinnikova. *npj Computational Materials*, 5:4, 2019.](http://doi.org/10.1038/s41524-019-0202-3)
 
-J9. **Situ: Identifying and Explaining Suspicious Behavior in Networks**. John R. Goodall, Eric D. Ragan, **Chad A. Steed**, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. *IEEE Transactions on Visualization and Computer Graphics*, 25(1):204--214, 2019.
+J9. [**Situ: Identifying and Explaining Suspicious Behavior in Networks**. John R. Goodall, Eric D. Ragan, **Chad A. Steed**, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. *IEEE Transactions on Visualization and Computer Graphics*, 25(1):204--214, 2019.](http://doi.org/10.1109/TVCG.2018.2865029)
 
-J8. **Falcon: Visual Analysis of Large, Irregularly Sampled, and Multivariate Time Series Data in Additive Manufacturing**. **Chad A. Steed**, William Halsey, Ryan Dehoff, Sean L. Yoder, Vincent Paquit, and Sarah Powers. *Computers & Graphics*, 63:50--64, 2017.
+J8. [**Falcon: Visual Analysis of Large, Irregularly Sampled, and Multivariate Time Series Data in Additive Manufacturing**. **Chad A. Steed**, William Halsey, Ryan Dehoff, Sean L. Yoder, Vincent Paquit, and Sarah Powers. *Computers & Graphics*, 63:50--64, 2017.](/publications/CAG2017/Steed_CAG2017.pdf)
 
 J7. **Discovering Multi-scale Co-occurence Patterns of Asthma and Influenza with Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, Tanner C. Hobson, Christopher G. Stahl, **Chad A. Steed**, Shannon P. Quinn, Chakra S. Chennubhotla, and Silvia Valkova. *Frontiers in Public Health*, 3(2015):182, Oct. 2015.
 
@@ -49,7 +49,7 @@ C18 **ParCAT: Parallel Climate Analysis Toolkit**. Brian Smith, Daniel M. Ricciu
 
 C17. **Verification of Compartmental Epidemiological Models using Metamorphic Testing, Model Checking and Visual Analytics**. Arvind Ramanathan, **Chad A. Steed**, and Laura L. Pullum. *Proceedings of the ASE/IEEE International Conference on BioMedical Computing (BioMedCom)*, Dec. 2012.
 
-C16. **A New Collaborative Tool for Visually Understanding National Health Indicators**. Songhua Xu, Brian Jewell, **Chad Steed**, and Jack Schryver. *Proceedings of the International Conference on Applied Human Factors and Ergonomics*, July 2012.
+C16. [**A New Collaborative Tool for Visually Understanding National Health Indicators**. Songhua Xu, Brian Jewell, **Chad Steed**, and Jack Schryver. *Proceedings of the International Conference on Applied Human Factors and Ergonomics*, July 2012.](/publications/AHFE2012/AHFE2012.pdf)
 
 C15. **Practical Application of Parallel Coordinates for Climate Model Analysis**. **Chad A. Steed**, Galen Shipman, Peter Thornton, Daniel Ricciuto, David Erickson, and Marcia Branstetter. *Proceedings of the International Conference on Computational Science*, pp. 877–886, June 2012.
 
@@ -61,11 +61,11 @@ C12. **Visualization Techniques for Computer Network Defense**. Justin M. Beaver
 
 C11. **Guided Analysis of Hurricane Trends using Statistical Processes Integrated with Interactive Parallel Coordinates**. **Chad A. Steed**, J. Edward Swan II, T.J. Jankun-Kelly, and Patrick J. Fitzpatrick. *Proceedings of Symposium on Visual Analytics Science and Technology (VAST)*, pp. 19–26, Oct. 2009.  *Proceedings cover page featured a figure from this paper*.
 
-C10. **Development of a New Unmanned Semi Submersible (USS) Vehicle**. Art Kleiner, David Alleman, Pete Alleman, and **Chad A. Steed**. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, 2009.
+C10. [**Development of a New Unmanned Semi Submersible (USS) Vehicle**. Art Kleiner, David Alleman, Pete Alleman, and **Chad A. Steed**. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, 2009.](/publications/OCEANS2009USS/OCEANS2009USS.pdf)
 
 C9. **Development of a Flexible, Geophysical Database using HDF5**. **Chad A. Steed**, Chiu-Fu “Tiger” Cheng, and David W. Harvey. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, Oct. 2009.
 
-C8. **Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–9, Oct. 2009.
+C8. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–9, Oct. 2009.](/publications/OCEANS2009VIS/OCEANS2009VIS.pdf)
 
 C7. **AQS-20 Sonar Processing Enhancement for Bathymetry Estimation**. Costin Barbu, William E. Avera, Dale Bibee, Michael M. Harris, and **Chad Steed**. *Proceedings of MTS/IEEE Oceans 2005*, pp. 2025–2029, Sep. 2005.
 
@@ -73,9 +73,9 @@ C6. **AQS-20 Through-The-Sensor (TTS) Performance Assessment**. Michael Harris, 
 
 C5. **AQS-20 Through-The-Sensor Environmental Data Sharing**. **Chad A. Steed**, John Sample, Michael Harris, William Avera, and L. Dale Bibee. P*roceedings of the Defense & Security Symposium*, p. 32–41, Mar. 2005.
 
-C4. **Environmental Data Collection, Sensor to Decision Aid**. Michael Harris, Will Avera, L. Dale Bibee, **Chad Steed**, John Sample, Mark Null, and Jim Hammack. *International Symposium on Technology and the Mine Problem*, pp. pp. 818-823, May 2004.
+C4. [**Environmental Data Collection, Sensor to Decision Aid**. Michael Harris, Will Avera, L. Dale Bibee, **Chad Steed**, John Sample, Mark Null, and Jim Hammack. *International Symposium on Technology and the Mine Problem*, pp. pp. 818-823, May 2004.](/publications/MINESYM2004/MINESYM2004.pdf)
 
-C3. **3D Enhancements for Visualizing Lane Navigation Performance**. Stephanie Myrick and *Chad Steed*. *Proceedings of the Human Performance, Situation Awareness, and Automation Technology Conference*, pp. 248-252, Mar. 2004.
+C3. [**3D Enhancements for Visualizing Lane Navigation Performance**. Stephanie Myrick and *Chad Steed*. *Proceedings of the Human Performance, Situation Awareness, and Automation Technology Conference*, pp. 248-252, Mar. 2004.](/publications/HPSSA2004/HPSSA2004.pdf)
 
 C2. **Geophysical Data Base Variable Resolution (GDBV): An Object-Oriented Database for Dynamic Geo-acoustic Data Storage**. **Chad A. Steed**, Kim Koehler, Dave Harvey, and Bruce Northridge. *Proceedings of MTS/IEEE Oceans 2003*, pp. 132–140, Sep. 2003.
 
@@ -94,21 +94,21 @@ B1.   **A Visual Analytics Approach for Correlation, Classification, and Regress
 
 ---
 
-A8. **Advancing Additive Manufacturing Through Visual Data Science**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. **Symposium on Visualization in Data Science at IEEE VIS 2016**, pp. 1–2, Oct. 2016.
+A8. [**Advancing Additive Manufacturing Through Visual Data Science**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. **Symposium on Visualization in Data Science at IEEE VIS 2016**, pp. 1–2, Oct. 2016.](/publications/VDS2016/SteedVDS2016.pdf)
 
-A7. **Segmented Time Series Visualization Tool for Additive Manufacturing**. William Halsey, **Chad A. Steed**, Ryan Dehoff, Vincent Paquit, and Sean Yoder. *IEEE Large Data Analysis and Visualization (LDAV) Symposium Posters Compendium*, pp. 1–2, Oct. 2016.
+A7. [**Segmented Time Series Visualization Tool for Additive Manufacturing**. William Halsey, **Chad A. Steed**, Ryan Dehoff, Vincent Paquit, and Sean Yoder. *IEEE Large Data Analysis and Visualization (LDAV) Symposium Posters Compendium*, pp. 1–2, Oct. 2016.](/publications/LDAV2016/LDAV2016-Abstract.pdf)
 
 A6. **ParCAT: A Parallel Climate Analysis Toolkit**. Blake Haugen, Brian Smith, **Chad A. Steed**, Daniel Ricciuto, Peter E. Thornton, and Galen Shipman. *AGU 2012 Fall Meeting*, Dec. 2012.
 
-A5. **Practical Web Based Visualization for Comparative Energy Usage Analysis**. Christopher Maness, **Chad A. Steed**, and Olufemi Omitaomu. *IEEE Visualization Conference Compendium*, pp. 1–2.
+A5. [**Practical Web Based Visualization for Comparative Energy Usage Analysis**. Christopher Maness, **Chad A. Steed**, and Olufemi Omitaomu. *IEEE Visualization Conference Compendium*, pp. 1–2.](/publications/InfoVis2012/InfoVis2012-Paper.pdf)
 
 A4. **Scale Dependency in Dynamic Downscaling of Extreme Climate Events over Complex Topography**. David J. Erickson, Auroop R. Ganguly, Robert James Oglesby, Evan A. Kodra, Debasish Das, Anthony W. King, Cindy Hays, **Chad Steed**, Robert Patton, and Chris Lenhardt. *AGU 2011 Fall Meeting*, Dec. 2011.
 
 A3. **Scale Dependency in Dynamic Downscaling of Extreme Climate Events Over Complex Topography**. Debasish Das, Evan Kodra, Karsten Steinhaeuser, Shih-Chieh Kao, Auroop R. Ganguly, Marcia L. Branstetter, David J. Erickson, Raymond Flanery, Maria Martinez Gonzalez, Cynthia Hays, Anthony W. King, Christopher Lenhardt, Robert Oglesby, Robert M. Patton, Clinton M. Rowe, Alexander Sorokine, **Chad Steed**. *AGU Fall Meeting Poster Session*, Dec. 2010.
 
-A2. **Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, J. Edward Swan II, and Robert J. Moorhead. *IEEE Visualization Conference Compendium*, pp. 1-2, Oct. 2009.
+A2. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, J. Edward Swan II, and Robert J. Moorhead. *IEEE Visualization Conference Compendium*, pp. 1-2, Oct. 2009.](/publications/VIS2009/VIS2009-paper.pdf)
 
-A1. **Practical Application of Parallel Coordinates to Hurricane Trend Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *IEEE Information Visualization Conference Compendium*, pp. 4-5, Oct. 2007.
+A1. [**Practical Application of Parallel Coordinates to Hurricane Trend Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *IEEE Information Visualization Conference Compendium*, pp. 4-5, Oct. 2007.](/publications/InfoVis2007/InfoVis2007.pdf)
 
 
 ## WORKSHOP AND POSITION PAPERS
@@ -118,31 +118,31 @@ A1. **Practical Application of Parallel Coordinates to Hurricane Trend Analysis*
 
 W19. **Application of Data Analytics to Additive Manufacturing**. Sarah Powers, Ryan Dehoff, Vincent Paquit, **Chad A. Steed**, and Derek Kistler. *Proceedings of the INFORMS Workshop on Data Mining and Decision Analytics*, Nov. 2016.
 
-W18. **Immersive Visual Analytics for Transformative Neutron Scattering Science**. **Chad A. Steed**, Jamison Daniel, Margaret Drouhard, Thomas Proffen, and Steven Hahn. *Proceedings of the Workshop on Immersive Analytics at IEEE Virtual Reality 2016*, Mar. 2016.
+W18. [**Immersive Visual Analytics for Transformative Neutron Scattering Science**. **Chad A. Steed**, Jamison Daniel, Margaret Drouhard, Thomas Proffen, and Steven Hahn. *Proceedings of the Workshop on Immersive Analytics at IEEE Virtual Reality 2016*, Mar. 2016.](/publications/IA2016/IA2016.pdf)
 
-W17. **Dr. Twitter: The Logistics of Practical Disease Surveillance using Social Media**. Shannon Quinn, Arvind Ramanathan, Laura Pullum, and **Chad A. Steed**. *Proceedings of the Web-based Public Health Informatics Workshop at IEEE BHI 2016*, Feb. 2016.
+W17. [**Dr. Twitter: The Logistics of Practical Disease Surveillance using Social Media**. Shannon Quinn, Arvind Ramanathan, Laura Pullum, and **Chad A. Steed**. *Proceedings of the Web-based Public Health Informatics Workshop at IEEE BHI 2016*, Feb. 2016.](/publications/BHI/quinn_bhi_2016.pdf)
 
 W16. **Visualizing Execution Traces with Task Dependencies**. Blake Haugen, Stephen Richmond, Jakub Kurzak, **Chad A. Steed**, and Jack Dongarra. *Proceedings of the Workshop on Visual Performance Analysis at SC15*, Nov. 2015.
 
 W15. **Immersive Visualization for Materials Science Data Analysis using the Oculus Rift**. Margaret Drouhard, **Chad A. Steed**, Steven Hahn, Thomas Proffen, Jamison Daniel, and Michael Matheson. *Proceedings of the Workshop on Advances in Software and Hardware for Big Data to Knowledge Discovery at IEEE Big Data 2015*, pp. 2453–2461, Oct. 2015.
 
-W14. **Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems**. **Chad A. Steed**, Justin Beaver, Paul L. Bogen II, Margaret Drouhard, and Joshua Pyle. *Proceedings of the ACM IUI Visual Text Analytics Workshop*, Mar. 2015.
+W14. [**Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems**. **Chad A. Steed**, Justin Beaver, Paul L. Bogen II, Margaret Drouhard, and Joshua Pyle. *Proceedings of the ACM IUI Visual Text Analytics Workshop*, Mar. 2015.](/publications/TEXTVIS2015/Steed-TextVis2015.pdf)
 
-W13. **Extreme Scale Visual Analytics**. **Chad A. Steed**, Thomas E. Potok, Laura L. Pullum, Arvind Ramanathan, Galen Shipman, and Peter E. Thornton. *Proceedings of the Workshop on Petascale Data Analytics at SC13*, Nov. 2013.
+W13. [**Extreme Scale Visual Analytics**. **Chad A. Steed**, Thomas E. Potok, Laura L. Pullum, Arvind Ramanathan, Galen Shipman, and Peter E. Thornton. *Proceedings of the Workshop on Petascale Data Analytics at SC13*, Nov. 2013.](/publications/SC13/Steed-SC13.pdf)
 
-W12. **Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, and Chakra S. Chennubhotla. *Proceedings of IEEE VAST Workshop on Public Health’s Wicked Problems: Can InfoVis Save Lives?*, Oct. 2013.
+W12. [**Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, and Chakra S. Chennubhotla. *Proceedings of IEEE VAST Workshop on Public Health’s Wicked Problems: Can InfoVis Save Lives?*, Oct. 2013.](/publications/VAST13/ORBIT-VAST13.pdf)
 
-W11. **Integrating Heterogeneous Healthcare Datasets and Visual Analytics for Disease Bio-surveillance and Dynamics**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, Chakra S. Chennubhotla, and Tara Parker. *Proceedings of the Interactive Visual Text Analytics Workshop*, Oct. 2013.
+W11. [**Integrating Heterogeneous Healthcare Datasets and Visual Analytics for Disease Bio-surveillance and Dynamics**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, Chakra S. Chennubhotla, and Tara Parker. *Proceedings of the Interactive Visual Text Analytics Workshop*, Oct. 2013.](/publications/TEXTVIS13/Ramanathan-TextVis2013.pdf)
 
 W10. **A Pilot Study on Functional Unit Testing for Community Land Model**. Dali Wang, Yang Xu, Peter Thornton, Anthony King, and **Chad A. Steed**. *Proceedings of the Computational Data Analytics Workshop (CDAW-13)*, Oct. 2013.
 
 W9. **Visualizing Community Resilience Metrics from Twitter Data**. Robert Patton, **Chad A. Steed**, Chris Stahl. *The Workshop on Social Media Visualization (ICWSM-13)*, Jul. 2013.
 
-W8. **Interactive Visual Analysis of High Throughput Text Streams**. **Chad A. Steed**, Thomas E. Potok, Robert M. Patton, John R. Goodall, Christopher Maness, James Senter. *Proceedings of the Interactive Visual Text Analytics Workshop at VIS2012*, Oct. 2012.
+W8. [**Interactive Visual Analysis of High Throughput Text Streams**. **Chad A. Steed**, Thomas E. Potok, Robert M. Patton, John R. Goodall, Christopher Maness, James Senter. *Proceedings of the Interactive Visual Text Analytics Workshop at VIS2012*, Oct. 2012.](/publications/TEXTVIS2012/steed-etal-ivta-2012.pdf)
 
 W7. **An Integrated Geovisual Analytics Framework for Analysis of Energy Consumption Data and Renewable Energy Potentials**. Olufemi A. Omitaomu, Christopher S. Maness, Ian S. Kramer, Jeffrey B. Kodysh, Budhendra L. Bhaduri, **Chad A. Steed**, Rajasekar Karthik, Philip J. Nugent, Aaron T. Myers. *Proceedings of the GeoSpatial Visual Analytics Workshop at GIScience*, Sep. 2012.
 
-W6.   **North Atlantic Hurricane Trend Analysis using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of the GeoSpatial Visual Analytics Workshop*, pp. 1-4, Sep. 2008.
+W6. [**North Atlantic Hurricane Trend Analysis using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of the GeoSpatial Visual Analytics Workshop*, pp. 1-4, Sep. 2008.](/publications/GEOVA08/Steed-GEOVA08.pdf)
 
 W5. **Algorithm for Bathymetry Fusion with Uncertainty Assessment**. Paul Elmore and **Chad A. Steed**. *Proceedings of the NRL Technical Metrics Workshop*, May 2008.
 
@@ -159,7 +159,7 @@ W1. **A Method for Overcoming Discontinuity Between Neighboring UTM Zone Grids**
 
 ---
 
-D1. **Development of a Geovisual Analytics Environment using Parallel Coordinates with Applications to Tropical Cyclone Trend Analysis**. **Chad A. Steed**. PhD Dissertation, Computer Science and Engineering Department, Mississippi State University, 221 pp., Dec. 2008.
+D1. [**Development of a Geovisual Analytics Environment using Parallel Coordinates with Applications to Tropical Cyclone Trend Analysis**. **Chad A. Steed**. PhD Dissertation, Computer Science and Engineering Department, Mississippi State University, 221 pp., Dec. 2008.](/publications/DISS2008/SteedDISS2008.pdf)
 
 
 ## PATENTS
@@ -177,11 +177,11 @@ P1.   **Information Assisted Visual Interface, System, and Method for Identifyin
 
 ---
 
-T25.   **Falcon: A Temporal Visual Analytics System Applied to the Analysis of 3D Printer Log Data**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. ORNL Technical Report, *ORNL/TM-2016/393*, Oak Ridge National Laboratory, Aug. 2016. 25 pp.
+T25.   [**Falcon: A Temporal Visual Analytics System Applied to the Analysis of 3D Printer Log Data**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. ORNL Technical Report, *ORNL/TM-2016/393*, Oak Ridge National Laboratory, Aug. 2016. 25 pp.](/publications/TR393/Steed-etal-Falcon-TM2016_393.pdf)
 
 T24.   **Ultrascale Visualization Climate Data Analysis Tools**. Dean N. Williams, Andrew Bauer, Aashish Chaudhary, Berk Geveci, Harinarayan Krishnan, David Bader, Timo Bremer, Charles Doutriaux, Daniel Fedor-Thurman, Matthew Harris, Elo Leung, Renata McCoy, James Ahrens, Curt Canada, Phil Jones, Boonthanome Nouanesengsy, John Patchett, Sean Williams, Thomas Maxwell, Gerald Potter, Cecelia DeLuca, Ryan O’Kuinghttons, Robert Oehmke, David Pugmire, Galen Shipman, Brian Smith, **Chad Steed**, Ben Burnett, Aritra Dasgupta, Tommy Ellqvist, David Koop, Emanuele Marques, Jorge Poco, Remi Rampin, Claudio Silva, Huy Vo, David Kindig, Alexander Pletzer, Cameron Christensen, Sidharth Kumar, Valerio Pascucci, Giorgio Scorzelli, Brian Summa. LLNL Technical Report, *LLNL-TR-643624*, Lawrence Livermore National Laboratory, Sep. 2013. 96 pp.
 
-T23. **Guided Text Search Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher T. Symons, James K. Senter, and Frank A. DeNap. ORNL Technical Report, *ORNL/TM-2012/479*, Oak Ridge National Laboratory, Oct. 2012. 20 pp.
+T23. [**Guided Text Search Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher T. Symons, James K. Senter, and Frank A. DeNap. ORNL Technical Report, *ORNL/TM-2012/479*, Oak Ridge National Laboratory, Oct. 2012. 20 pp.](/publications/TR-GRYFFIN/SteedGryffinTR.pdf)
 
 T22. **A Visual Analytics Approach for Correlation, Classification, and Regression Analysis**. **Chad A. Steed**, J. Edward Swan II, Patrick J. Fitzpatrick, and T.J. Jankun-Kelly. ORNL Technical Report, *ORNL/TM-2012/68*, Oak Ridge National Laboratory, Feb. 2012. 30 pp.
 
@@ -195,11 +195,11 @@ T18. **Environmental Components Integrations and Dissemination (ECID) Study Prel
 
 T17. **Geophysical Data Base Variable Resolution Version 2: Planning Report**. **Chad A. Steed** and David W. Harvey. Formal Report, *NRL/FR/7440–08-10,173*, U.S. Naval Research Laboratory, Jan. 2009. 12 pp.
 
-T16. **Algorithm Design Study for Bathymetry Fusion: Review of Current State-of-the-Art and Recommended Design Approach**. Paul A. Elmore and **Chad A. Steed**. Formal Report, *NRL/FR/7440–08-10,162*, U.S. Naval Research Laboratory, Oct. 2008. 26 pp.
+T16. [**Algorithm Design Study for Bathymetry Fusion: Review of Current State-of-the-Art and Recommended Design Approach**. Paul A. Elmore and **Chad A. Steed**. Formal Report, *NRL/FR/7440–08-10,162*, U.S. Naval Research Laboratory, Oct. 2008. 26 pp.](/publications/TR162/Elmore-TR162.pdf)
 
-T15. **Visual Analysis of North Atlantic Hurricane Trends Using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9130*, U.S. Naval Research Laboratory, Jul. 2008. 18 pp.
+T15. [**Visual Analysis of North Atlantic Hurricane Trends Using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9130*, U.S. Naval Research Laboratory, Jul. 2008. 18 pp.](/publications/TR9130/Steed-TR9130.pdf)
 
-T14. **An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9126*, U.S. Naval Research Laboratory, Jun. 2008. 25 pp.
+T14. [**An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9126*, U.S. Naval Research Laboratory, Jun. 2008. 25 pp.](/publications/TR9126/Steed-TR9126.pdf)
 
 T13. **AUV Data Assimilation: Requirements, Limitations, and Recommendations**. Michael M. Harris, William E. Avera, and **Chad A. Steed**. Formal Report, *NRL/FR/7440–08-1060*, U.S. Naval Research Laboratory, May 2008. 18 pp.
 
@@ -219,9 +219,9 @@ T6. **GAIT GDBV Quick Start Guide**. **Chad A. Steed**. Memorandum Report, *NRL/
 
 T5. **Geophysical Data Base Variable Resolution (GDBV): Database Definition Document**. **Chad A. Steed**. Formal Report, *NRL/FR/7440–03-10,063*, U.S. Naval Research Laboratory, Dec. 2003. 27 pp.
 
-T4. **OAML Feathering Algorithm Overview**. **Chad A. Steed** and William E. Rankin. Formal Report *NRL/FR/7440–03-10,052*, U.S. Naval Research Laboratory, May 2003. 10 pp.
+T4. [**OAML Feathering Algorithm Overview**. **Chad A. Steed** and William E. Rankin. Formal Report *NRL/FR/7440–03-10,052*, U.S. Naval Research Laboratory, May 2003. 10 pp.](/publications/TR052/Steed-TR052.pdf)
 
-T3. **Analysis of Global and Selected Geographic Areas with Depths Between 50 and 100 Feet**. John T. Sample, **Chad A. Steed**, Frank P. McCreedy, and Michael M. Harris. Memorandum Report, *NRL/MR/7440–03-8295*, U.S. Naval Research Laboratory, Feb. 2003. 23 pp.
+T3. [**Analysis of Global and Selected Geographic Areas with Depths Between 50 and 100 Feet**. John T. Sample, **Chad A. Steed**, Frank P. McCreedy, and Michael M. Harris. Memorandum Report, *NRL/MR/7440–03-8295*, U.S. Naval Research Laboratory, Feb. 2003. 23 pp.](/publications/TR8295/Sample-TR8295.pdf)
 
 T2. **A Flat Earth Model for DBDB-V**. **Chad A. Steed** and James E. Braud. Formal Report, *NRL/FR/7440–02-10,025*, U.S. Naval Research Laboratory, Aug. 2002. 12 pp.
 

@@ -37,37 +37,37 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
 
 <div id="project">
     <div id="project_text">
-        <a href="projects/bankStockPCPVis/"><h3>Multivariate Bank Stock Performance Visualizations</h3></a>
+        <a href="http://csteed.com/BankPCPVis/"><h3>Multivariate Bank Stock Performance Visualizations</h3></a>
         <p>This page shows a web-based parallel coordinates visualization of bank stock performance data using <a href="https://d3js.org" target="_blank">d3.js</a>. The visualizations use stock market data covering 5 years from <a href="https://www.kaggle.com/camnugent/sandp500" target="_blank">Kaggle</a>.<br/>
-        <b>PCP Visualization:</b> <a class="nav" href="./bankStockPCPVis/index.html">BankPCPVis</a>
+        <b>PCP Visualization:</b> <a class="nav" href="http://csteed.com/BankPCPVis/">BankPCPVis</a>
         </p>
     </div>
     <div id="project_img">
-        <a href="./bankStockPCPVis/index.html"><img src="projects/bankStockPCPVis/bankVis_thumbnail.png" alt="BankVis"/></a>
+        <a href="http://csteed.com/BankPCPVis/"><img src="projects/bankStockPCPVis/bankVis_thumbnail.png" alt="BankPCPVis"/></a>
     </div>
 </div>
 
 <div id="project">
     <div id="project_text">
-        <a href="projects/bankStockTimeVis/index.html"><h3>Temporal Bank Stock Performance Visualizations</h3></a>
+        <a href="http://csteed.com/BankTimeVis/"><h3>Temporal Bank Stock Performance Visualizations</h3></a>
         <p>This project is a collage of web-based temporal visualizations examining the performance of selected banks' stock using <a href="https://d3js.org" target="_blank">d3.js</a>. The visualizations use stock market data covering 5 years from <a href="https://www.kaggle.com/camnugent/sandp500" target="_blank">Kaggle</a>.<br/>
-        <b>Time Visualizations:</b> <a class="nav" href="./bankStockTimeVis/index.html">BankTimeVis</a>
+        <b>Time Visualizations:</b> <a class="nav" href="http://csteed.com/BankTimeVis/">BankTimeVis</a>
         </p>
     </div>
     <div id="project_img">
-        <a href="./bankStockTimeVis/index.html"><img src="projects/bankStockTimeVis/bankVis_thumbnail.png" alt="BankVis"/></a>
+        <a href="http://csteed.com/BankTimeVis/"><img src="projects/bankStockTimeVis/bankVis_thumbnail.png" alt="BankVis"/></a>
     </div>
 </div>
 
 <div id="project">
     <div id="project_text">
-        <a href="./utk557/index.html"><h3>UTK 557 Course Evaluation Visualization</h3></a>
+        <a href="http://csteed.com/UTK557EvalVis/"><h3>UTK 557 Course Evaluation Visualization</h3></a>
         <p>This page shows the student evaluation results of UTK 557 Fall 2013, a data visualization course I taught at the University of Tennessee. The survey results are presented at bullet charts using <a href="https://d3js.org" target="_blank">d3.js</a>.<br/>
-        <b>App:</b> <a class="nav" href="./utk557/index.html">UTK557Vis</a>
+        <b>App:</b> <a class="nav" href="http://csteed.com/UTK557EvalVis/">UTK557Vis</a>
         </p>
     </div>
     <div id="project_img">
-        <a href="./utk557/index.html"><img src="projects/utk557/utk557_thumbnail.png" alt="UTK557Vis"/></a>
+        <a href="http://csteed.com/UTK557EvalVis/"><img src="projects/utk557/utk557_thumbnail.png" alt="UTK557Vis"/></a>
     </div>
 </div>
 
