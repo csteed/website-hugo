@@ -8,85 +8,85 @@ draft: false
 
 ---
 
-J10. [**Deep Data Analytics for Genetic Engineering of Diatoms Linking Genotype to Phenotype via Machine Learning**. Artem A. Trofimov, Alison A. Pawlicki, Nikolay Borodinov, Shovon Mandal, Teresa J. Mathews, Mark Hildebrand, Maxim A. Ziatdinov, Katherine A. Hausladen, Paulina K. Urbanowicz, **Chad A. Steed**, Anton V. Ievlev, Alex Belianinov, Joshua K. Michener, Rama Vasudevan, and Olga S. Ovchinnikova. *npj Computational Materials*, 5:4, 2019.](http://doi.org/10.1038/s41524-019-0202-3)
+J10. [**Deep Data Analytics for Genetic Engineering of Diatoms Linking Genotype to Phenotype via Machine Learning**. Artem A. Trofimov, Alison A. Pawlicki, Nikolay Borodinov, Shovon Mandal, Teresa J. Mathews, Mark Hildebrand, Maxim A. Ziatdinov, Katherine A. Hausladen, Paulina K. Urbanowicz, **Chad A. Steed**, Anton V. Ievlev, Alex Belianinov, Joshua K. Michener, Rama Vasudevan, and Olga S. Ovchinnikova. *npj Computational Materials*, 5:4, 2019.](/publications/files/journals/NPJCM_2019.pdf)
 
-J9. [**Situ: Identifying and Explaining Suspicious Behavior in Networks**. John R. Goodall, Eric D. Ragan, **Chad A. Steed**, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. *IEEE Transactions on Visualization and Computer Graphics*, 25(1):204--214, 2019.](http://doi.org/10.1109/TVCG.2018.2865029)
+J9. [**Situ: Identifying and Explaining Suspicious Behavior in Networks**. John R. Goodall, Eric D. Ragan, **Chad A. Steed**, Joel W. Reed, G. David Richardson, Kelly M.T. Huffer, Robert A. Bridges, and Jason A. Laska. *IEEE Transactions on Visualization and Computer Graphics*, 25(1):204--214, 2019.](/publications/files/journals/TVCG_2019.pdf)
 
-J8. [**Falcon: Visual Analysis of Large, Irregularly Sampled, and Multivariate Time Series Data in Additive Manufacturing**. **Chad A. Steed**, William Halsey, Ryan Dehoff, Sean L. Yoder, Vincent Paquit, and Sarah Powers. *Computers & Graphics*, 63:50--64, 2017.](/publications/CAG2017/Steed_CAG2017.pdf)
+J8. [**Falcon: Visual Analysis of Large, Irregularly Sampled, and Multivariate Time Series Data in Additive Manufacturing**. **Chad A. Steed**, William Halsey, Ryan Dehoff, Sean L. Yoder, Vincent Paquit, and Sarah Powers. *Computers & Graphics*, 63:50--64, 2017.](/publications/files/journals/CAG_2017.pdf)
 
-J7. **Discovering Multi-scale Co-occurence Patterns of Asthma and Influenza with Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, Tanner C. Hobson, Christopher G. Stahl, **Chad A. Steed**, Shannon P. Quinn, Chakra S. Chennubhotla, and Silvia Valkova. *Frontiers in Public Health*, 3(2015):182, Oct. 2015.
+J7. [**Discovering Multi-scale Co-occurence Patterns of Asthma and Influenza with Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, Tanner C. Hobson, Christopher G. Stahl, **Chad A. Steed**, Shannon P. Quinn, Chakra S. Chennubhotla, and Silvia Valkova. *Frontiers in Public Health*, 3(2015):182, Oct. 2015.](/publications/files/journals/FPH_2015.pdf)
 
-J6. **Big Data and Deep Data in Scanning and Electron Microscopies: Deriving Functionality from Multidimensional Data Sets**. Alex Belianinov, Rama K. Vasudevan, Evgheni Strelcov, **Chad Steed**, Sang Mo Yang, Alexander Tselev, Stephen Jesse, Michael Biegalski, Galen Shipman, Christopher Symons, Albina Borisevich, Richard Archibald, and Sergei Kalinin. *Advanced Structural and Chemical Imaging*, 1(6):1-25, 2015.
+J6. [**Big Data and Deep Data in Scanning and Electron Microscopies: Deriving Functionality from Multidimensional Data Sets**. Alex Belianinov, Rama K. Vasudevan, Evgheni Strelcov, **Chad Steed**, Sang Mo Yang, Alexander Tselev, Stephen Jesse, Michael Biegalski, Galen Shipman, Christopher Symons, Albina Borisevich, Richard Archibald, and Sergei Kalinin. *Advanced Structural and Chemical Imaging*, 1(6):1-25, 2015.](/publications/files/journals/ASCI_2015.pdf)
 
-J5. **A Functional Unit Testing Platform for the Community Land Model**. Dali Wang, Yang Xu, Peter Thornton, Anthony King, **Chad A. Steed**, Lianhong Gu, and Joseph Schuchart. *Environmental Modeling and Software*, 55:25–31, 2014.
+J5. [**A Functional Unit Testing Platform for the Community Land Model**. Dali Wang, Yang Xu, Peter Thornton, Anthony King, **Chad A. Steed**, Lianhong Gu, and Joseph Schuchart. *Environmental Modeling and Software*, 55:25–31, 2014.](/publications/files/journals/EMS_2014.pdf)
 
-J4. **Big Data Visual Analytics for Exploratory Earth System Simulation Analysis**. **Chad A. Steed**, Daniel M. Ricciuto, Galen Shipman, Brian Smith, Peter E. Thornton, Dali Wang, and Dean N. Williams. *Computers & Geosciences*, 61:71-82, 2013.  ***CAGEO 2013 Best Paper Award***.
+J4. [**Big Data Visual Analytics for Exploratory Earth System Simulation Analysis**. **Chad A. Steed**, Daniel M. Ricciuto, Galen Shipman, Brian Smith, Peter E. Thornton, Dali Wang, and Dean N. Williams. *Computers & Geosciences*, 61:71-82, 2013.  ***CAGEO 2013 Best Paper Award***.](/publications/files/journals/CAGEO_2013.pdf)
 
-J3. **The Ultra-scale Visualization Climate data Analysis Tools (UV-CDAT): Data Analysis and Visualization for Geoscience Data.** Dean N. Williams, Timo Bremer, Charles Doutriaux, John Patchett, Sean Williams, Galen Shipman, Ross Miller, David R. Pugmire, Brian Smith, **Chad A. Steed**, E. Wes Bethel, Hank Childs, Harinarayan Krishnan, Prabhat, Claudio T. Silva, Emanuele Santos, David Koop, Tommy Ellqvist, Jorge Poco, Berk Geveci, Aashish Chaudhary, Andy Bauer, Alexander Pletzer, Dave Kindig, Gerald L. Potter, and Thomas P. Maxwell. *IEEE Computer*, 46(9):68–76, 2013.
+J3. [**The Ultra-scale Visualization Climate data Analysis Tools (UV-CDAT): Data Analysis and Visualization for Geoscience Data.** Dean N. Williams, Timo Bremer, Charles Doutriaux, John Patchett, Sean Williams, Galen Shipman, Ross Miller, David R. Pugmire, Brian Smith, **Chad A. Steed**, E. Wes Bethel, Hank Childs, Harinarayan Krishnan, Prabhat, Claudio T. Silva, Emanuele Santos, David Koop, Tommy Ellqvist, Jorge Poco, Berk Geveci, Aashish Chaudhary, Andy Bauer, Alexander Pletzer, Dave Kindig, Gerald L. Potter, and Thomas P. Maxwell. *IEEE Computer*, 46(9):68–76, 2013.](/publications/files/journals/COMP_2013.pdf)
 
-J2. **An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *Computers & Geosciences*, 35(7):1529–1539, 2009.
+J2. [**An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *Computers & Geosciences*, 35(7):1529–1539, 2009.](/publications/files/journals/CAGEO_2009.pdf)
 
-J1. **Tropical Cyclone Trend Analysis using Enhanced Parallel Coordinates and Statistical Analytics**. **Chad A. Steed**, Patrick J. Fitzpatrick, J. Edward Swan II, and T.J. Jankun-Kelly. *Cartography and Geographic Information Science*, 36(3):251–265, 2009.
+J1. [**Tropical Cyclone Trend Analysis using Enhanced Parallel Coordinates and Statistical Analytics**. **Chad A. Steed**, Patrick J. Fitzpatrick, J. Edward Swan II, and T.J. Jankun-Kelly. *Cartography and Geographic Information Science*, 36(3):251–265, 2009.](/publications/files/journals/CAGIS_2009.pdf)
 
 
 ## CONFERENCE PAPERS
 
 ---
 
-C24. **Dynamic Color Mapping with a Multi-scale Histogram: A Design Study with Physical Scientists**. Junghoon Chae, **Chad A. Steed**, John Goodall, and Steven Hahn. *Proceedings of the SPIE Visualization and Data Analysis Conference*, Jan. 2019.
+C24. [**Dynamic Color Mapping with a Multi-scale Histogram: A Design Study with Physical Scientists**. Junghoon Chae, **Chad A. Steed**, John Goodall, and Steven Hahn. *Proceedings of the SPIE Visualization and Data Analysis Conference*, Jan. 2019.](/publications/files/conferences/VDA_2019.pdf)
 
-C23. **In Situ Data Infrastructure for Scientific Unit Testing Platform**. Dali Wang, Zhuo Yao, Yulu Xu, **Chad A. Steed**, Scott Atchley, Jamison Daniel, Brian Smith. *Proceedings of the International Conference on Computational Science*, pp. 587–598, June 2016.
+C23. [**In Situ Data Infrastructure for Scientific Unit Testing Platform**. Zhuo Yao, Yulu Xu, Dali Wang, **Chad A. Steed**, Scott Atchley, Jamison Daniel, Brian Smith. *Proceedings of the International Conference on Computational Science*, pp. 587–598, June 2016.](/publications/files/conferences/ICCS_2016.pdf)
 
-C22. **Tracking Alcohol and Marijuana Usage and Behaviors from Social Media using Oak Ridge Bio-Surveillance Toolkit**. Arvind Ramanathan, Shannon Quinn, Laura Pullum, and **Chad A. Steed**. *Proceedings of the IEEE International Conference on Biomedical and Health Informatics*, Feb. 2016.
+C22. [**Tracking Alcohol and Marijuana Usage and Behaviors from Social Media using Oak Ridge Bio-Surveillance Toolkit**. Arvind Ramanathan, Shannon Quinn, Laura Pullum, and **Chad A. Steed**. *Proceedings of the IEEE International Conference on Biomedical and Health Informatics*, Feb. 2016.](/publications/files/conferences/BMI_2016.pdf)
 
-C21. **Matisse: A Visual Analytics System for Exploring Emotion Trends in Social Media Text Streams**. **Chad A. Steed**, Margaret Drouhard, Justin Beaver, Joshua Pyle, and Paul L. Bogen II. *Proceedings of the IEEE International Conference on Big Data (IEEE Big Data 2015)*, pp. 807–814, Oct. 2015.
+C21. [**Matisse: A Visual Analytics System for Exploring Emotion Trends in Social Media Text Streams**. **Chad A. Steed**, Margaret Drouhard, Justin Beaver, Joshua Pyle, and Paul L. Bogen II. *Proceedings of the IEEE International Conference on Big Data (IEEE Big Data 2015)*, pp. 807–814, Oct. 2015.](/publications/files/conferences/BD_2015.pdf)
 
-C20. **Web-based Visual Analytics for Extreme Scale Climate Science**. **Chad A. Steed**, Katherine J. Evans, John F. Harney, Brian C. Jewell, Galen Shipman, Brian E. Smith, Peter E. Thornton, and Dean N. Williams. *Proceedings of the IEEE International Conference on Big Data (IEEE Big Data 2014)*, pp. 383–392, Oct. 2014.
+C20. [**Web-based Visual Analytics for Extreme Scale Climate Science**. **Chad A. Steed**, Katherine J. Evans, John F. Harney, Brian C. Jewell, Galen Shipman, Brian E. Smith, Peter E. Thornton, and Dean N. Williams. *Proceedings of the IEEE International Conference on Big Data (IEEE Big Data 2014)*, pp. 383–392, Oct. 2014.](/publications/files/conferences/BD_2014.pdf)
 
-C19. **Observing Community Resiliency in Social Media**. Robert Patton, **Chad A. Steed**, Chris G. Stahl, and Jim N. Treadwell. *Proceedings of the International Conference on Computational Science and Applications (ICCS A 2013)*, pp. 491–501, June 2013.
+C19. [**Observing Community Resiliency in Social Media**. Robert Patton, **Chad A. Steed**, Chris G. Stahl, and Jim N. Treadwell. *Proceedings of the International Conference on Computational Science and Applications (ICCSA 2013)*, pp. 491–501, June 2013.](/publications/files/conferences/ICCSA_2013.pdf)
 
-C18 **ParCAT: Parallel Climate Analysis Toolkit**. Brian Smith, Daniel M. Ricciuto, Peter E. Thornton, Galen Shipman, **Chad Steed**, and Dean Williams. *Proceedings of the International Conference on Computational Science*, pp. 2367–2375, June 2013.
+C18 [**ParCAT: Parallel Climate Analysis Toolkit**. Brian Smith, Daniel M. Ricciuto, Peter E. Thornton, Galen Shipman, **Chad Steed**, and Dean Williams. *Proceedings of the International Conference on Computational Science*, pp. 2367–2375, June 2013.](/publications/files/conferences/ICCS_2013.pdf)
 
-C17. **Verification of Compartmental Epidemiological Models using Metamorphic Testing, Model Checking and Visual Analytics**. Arvind Ramanathan, **Chad A. Steed**, and Laura L. Pullum. *Proceedings of the ASE/IEEE International Conference on BioMedical Computing (BioMedCom)*, Dec. 2012.
+C17. [**Verification of Compartmental Epidemiological Models using Metamorphic Testing, Model Checking and Visual Analytics**. Arvind Ramanathan, **Chad A. Steed**, and Laura L. Pullum. *Proceedings of the ASE/IEEE International Conference on BioMedical Computing (BioMedCom)*, Dec. 2012.](/publications/files/conferences/BMC_2012.pdf)
 
-C16. [**A New Collaborative Tool for Visually Understanding National Health Indicators**. Songhua Xu, Brian Jewell, **Chad Steed**, and Jack Schryver. *Proceedings of the International Conference on Applied Human Factors and Ergonomics*, July 2012.](/publications/AHFE2012/AHFE2012.pdf)
+C16. [**A New Collaborative Tool for Visually Understanding National Health Indicators**. Songhua Xu, Brian Jewell, **Chad Steed**, and Jack Schryver. *Proceedings of the International Conference on Applied Human Factors and Ergonomics*, July 2012.](/publications/files/conferences/AHFE_2012.pdf)
 
-C15. **Practical Application of Parallel Coordinates for Climate Model Analysis**. **Chad A. Steed**, Galen Shipman, Peter Thornton, Daniel Ricciuto, David Erickson, and Marcia Branstetter. *Proceedings of the International Conference on Computational Science*, pp. 877–886, June 2012.
+C15. [**Practical Application of Parallel Coordinates for Climate Model Analysis**. **Chad A. Steed**, Galen Shipman, Peter Thornton, Daniel Ricciuto, David Erickson, and Marcia Branstetter. *Proceedings of the International Conference on Computational Science*, pp. 877–886, June 2012.](/publications/files/conferences/ICCS_2012.pdf)
 
-C14. **Guided Text Analysis Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher Symons, Frank DeNap, and Thomas E. Potok. *Proceedings of the Visualization and Data Analysis Conference*, Jan. 2012.
+C14. [**Guided Text Analysis Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher Symons, Frank DeNap, and Thomas E. Potok. *Proceedings of the Visualization and Data Analysis Conference*, Jan. 2012.](/publications/files/conferences/VDA_2012.pdf)
 
-C13. **Hierarchical Clustering and Visualization of Aggregate Cyber Data**. Robert M. Patton, Justin M. Beaver, **Chad A. Steed**, Thomas E. Potok, and Jim N. Treadwell. *Proceedings of the International Wireless Communications and Mobile Computing Conference*, pp. 1287–1291, 2011.
+C13. [**Hierarchical Clustering and Visualization of Aggregate Cyber Data**. Robert M. Patton, Justin M. Beaver, **Chad A. Steed**, Thomas E. Potok, and Jim N. Treadwell. *Proceedings of the International Wireless Communications and Mobile Computing Conference*, pp. 1287–1291, 2011.](/publications/files/conferences/WCMC_2011.pdf)
 
-C12. **Visualization Techniques for Computer Network Defense**. Justin M. Beaver, **Chad A. Steed**, Robert M. Patton, Xiaohui Cui, and Matthew Schultz. *Proceedings of the Defense & Security Symposium*, vol. 8019, pp. 1–9, 2011.
+C12. [**Visualization Techniques for Computer Network Defense**. Justin M. Beaver, **Chad A. Steed**, Robert M. Patton, Xiaohui Cui, and Matthew Schultz. *Proceedings of the Defense & Security Symposium*, vol. 8019, pp. 1–9, 2011.](/publications/files/conferences/DSS_2011.pdf)
 
-C11. **Guided Analysis of Hurricane Trends using Statistical Processes Integrated with Interactive Parallel Coordinates**. **Chad A. Steed**, J. Edward Swan II, T.J. Jankun-Kelly, and Patrick J. Fitzpatrick. *Proceedings of Symposium on Visual Analytics Science and Technology (VAST)*, pp. 19–26, Oct. 2009.  *Proceedings cover page featured a figure from this paper*.
+C11. [**Guided Analysis of Hurricane Trends using Statistical Processes Integrated with Interactive Parallel Coordinates**. **Chad A. Steed**, J. Edward Swan II, T.J. Jankun-Kelly, and Patrick J. Fitzpatrick. *Proceedings of Symposium on Visual Analytics Science and Technology (VAST)*, pp. 19–26, Oct. 2009.  *Proceedings cover page featured a figure from this paper*.](/publications/files/conferences/VAST_2009.pdf)
 
-C10. [**Development of a New Unmanned Semi Submersible (USS) Vehicle**. Art Kleiner, David Alleman, Pete Alleman, and **Chad A. Steed**. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, 2009.](/publications/OCEANS2009USS/OCEANS2009USS.pdf)
+C10. [**Development of a New Unmanned Semi Submersible (USS) Vehicle**. Art Kleiner, David Alleman, Pete Alleman, and **Chad A. Steed**. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, 2009.](/publications/files/conferences/OCEANS_2009_USS.pdf)
 
-C9. **Development of a Flexible, Geophysical Database using HDF5**. **Chad A. Steed**, Chiu-Fu “Tiger” Cheng, and David W. Harvey. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, Oct. 2009.
+C9. [**Development of the Geophysical Data Base Variable Resolution (GDBV) using HDF5**. **Chad A. Steed**, Chiu-Fu “Tiger” Cheng, and David W. Harvey. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–6, Oct. 2009.](/publications/files/conferences/OCEANS_2009_GDBV.pdf)
 
-C8. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–9, Oct. 2009.](/publications/OCEANS2009VIS/OCEANS2009VIS.pdf)
+C8. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of MTS/IEEE Oceans 2009*, pp. 1–9, Oct. 2009.](/publications/files/conferences/OCEANS_2009_VIS.pdf)
 
-C7. **AQS-20 Sonar Processing Enhancement for Bathymetry Estimation**. Costin Barbu, William E. Avera, Dale Bibee, Michael M. Harris, and **Chad Steed**. *Proceedings of MTS/IEEE Oceans 2005*, pp. 2025–2029, Sep. 2005.
+C7. [**AQS-20 Sonar Processing Enhancement for Bathymetry Estimation**. Costin Barbu, William E. Avera, Dale Bibee, Michael M. Harris, and **Chad Steed**. *Proceedings of MTS/IEEE Oceans 2005*, pp. 2025–2029, Sep. 2005.](/publications/files/conferences/OCEANS_2005_BATHY.pdf)
 
-C6. **AQS-20 Through-The-Sensor (TTS) Performance Assessment**. Michael Harris, William Avera, **Chad Steed**, John Sample, L. Dale Bibee, Dave Morgerson, Jim Hammack, and Mark Null. *Proceedings of MTS/IEEE Oceans 2005*, pp. 460–465, Sep. 2005.
+C6. [**AQS-20 Through-The-Sensor (TTS) Performance Assessment**. Michael Harris, William Avera, **Chad Steed**, John Sample, L. Dale Bibee, Dave Morgerson, Jim Hammack, and Mark Null. *Proceedings of MTS/IEEE Oceans 2005*, pp. 460–465, Sep. 2005.](/publications/files/conferences/OCEANS_2005_PERF.pdf)
 
-C5. **AQS-20 Through-The-Sensor Environmental Data Sharing**. **Chad A. Steed**, John Sample, Michael Harris, William Avera, and L. Dale Bibee. P*roceedings of the Defense & Security Symposium*, p. 32–41, Mar. 2005.
+C5. [**AQS-20 Through-The-Sensor Environmental Data Sharing**. **Chad A. Steed**, John Sample, Michael Harris, William Avera, and L. Dale Bibee. P*roceedings of the Defense & Security Symposium*, p. 32–41, Mar. 2005.](/publications/files/conferences/DSS_2005.pdf)
 
-C4. [**Environmental Data Collection, Sensor to Decision Aid**. Michael Harris, Will Avera, L. Dale Bibee, **Chad Steed**, John Sample, Mark Null, and Jim Hammack. *International Symposium on Technology and the Mine Problem*, pp. pp. 818-823, May 2004.](/publications/MINESYM2004/MINESYM2004.pdf)
+C4. [**Environmental Data Collection, Sensor to Decision Aid**. Michael Harris, Will Avera, L. Dale Bibee, **Chad Steed**, John Sample, Mark Null, and Jim Hammack. *International Symposium on Technology and the Mine Problem*, pp. pp. 818-823, May 2004.](/publications/files/conferences/MINESYM_2004.pdf)
 
-C3. [**3D Enhancements for Visualizing Lane Navigation Performance**. Stephanie Myrick and *Chad Steed*. *Proceedings of the Human Performance, Situation Awareness, and Automation Technology Conference*, pp. 248-252, Mar. 2004.](/publications/HPSSA2004/HPSSA2004.pdf)
+C3. [**3D Enhancements for Visualizing Lane Navigation Performance**. Stephanie Myrick and *Chad Steed*. *Proceedings of the Human Performance, Situation Awareness, and Automation Technology Conference*, pp. 248-252, Mar. 2004.](/publications/files/conferences/HPSSA_2004.pdf)
 
-C2. **Geophysical Data Base Variable Resolution (GDBV): An Object-Oriented Database for Dynamic Geo-acoustic Data Storage**. **Chad A. Steed**, Kim Koehler, Dave Harvey, and Bruce Northridge. *Proceedings of MTS/IEEE Oceans 2003*, pp. 132–140, Sep. 2003.
+C2. [**Geophysical Data Base Variable Resolution (GDBV): An Object-Oriented Database for Dynamic Geo-acoustic Data Storage**. **Chad A. Steed**, Kim Koehler, Dave Harvey, and Bruce Northridge. *Proceedings of MTS/IEEE Oceans 2003*, pp. 132–140, Sep. 2003.](/publications/files/conferences/OCEANS_2003.pdf)
 
-C1. **VGRID: A Generic, Dynamic HDF5 Storage Model for Georeferenced Grid Data**. **Chad A. Steed**, Kim Koehler, and James E. Braud. *Proceedings of MTS/IEEE Oceans 2002*, pp. 900-907, Oct. 2002.
+C1. [**VGRID: A Generic, Dynamic HDF5 Storage Model for Georeferenced Grid Data**. **Chad A. Steed**, Kim Koehler, and James E. Braud. *Proceedings of MTS/IEEE Oceans 2002*, pp. 900-907, Oct. 2002.](/publications/files/conferences/OCEANS_2002.pdf)
 
 
 ## BOOK CHAPTERS
 
 ---
 
-B2.   **Interactive Data Visualization**. **Chad A. Steed**. Eds. Mashrur Chowdhury, Amy Apon, and Kakan Dey. In *Data Analytics for Intelligent Transportation*, Elsevier, pp. 165–190, 2017.
+B2.   [**Interactive Data Visualization**. **Chad A. Steed**. Eds. Mashrur Chowdhury, Amy Apon, and Kakan Dey. In *Data Analytics for Intelligent Transportation*, Elsevier, pp. 165–190, 2017.](/publications/files/chapters/ITS_2017.pdf)
 
 B1.   **A Visual Analytics Approach for Correlation, Classification, and Regression Analysis**. **Chad A. Steed**, J. Edward Swan II, Patrick J. Fitzpatrick, and T.J. Jankun-Kelly. In *Innovative Approaches of Data Visualization and Visual Analytics*, pp. 22-45, 2013.
 
@@ -94,21 +94,21 @@ B1.   **A Visual Analytics Approach for Correlation, Classification, and Regress
 
 ---
 
-A8. [**Advancing Additive Manufacturing Through Visual Data Science**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. **Symposium on Visualization in Data Science at IEEE VIS 2016**, pp. 1–2, Oct. 2016.](/publications/VDS2016/SteedVDS2016.pdf)
+A8. [**Advancing Additive Manufacturing Through Visual Data Science**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. **Symposium on Visualization in Data Science at IEEE VIS 2016**, pp. 1–2, Oct. 2016.](/publications/files/abstracts/VDS_2016.pdf) [[Slides]](/publications/files/abstracts/VDS_2016_slides.pdf)
 
-A7. [**Segmented Time Series Visualization Tool for Additive Manufacturing**. William Halsey, **Chad A. Steed**, Ryan Dehoff, Vincent Paquit, and Sean Yoder. *IEEE Large Data Analysis and Visualization (LDAV) Symposium Posters Compendium*, pp. 1–2, Oct. 2016.](/publications/LDAV2016/LDAV2016-Abstract.pdf)
+A7. [**Segmented Time Series Visualization Tool for Additive Manufacturing**. William Halsey, **Chad A. Steed**, Ryan Dehoff, Vincent Paquit, and Sean Yoder. *IEEE Large Data Analysis and Visualization (LDAV) Symposium Posters Compendium*, pp. 1–2, Oct. 2016.](/publications/files/abstracts/LDAV_2016.pdf) [[Poster]](/publications/files/abstracts/LDAV_2016_poster.pdf)
 
 A6. **ParCAT: A Parallel Climate Analysis Toolkit**. Blake Haugen, Brian Smith, **Chad A. Steed**, Daniel Ricciuto, Peter E. Thornton, and Galen Shipman. *AGU 2012 Fall Meeting*, Dec. 2012.
 
-A5. [**Practical Web Based Visualization for Comparative Energy Usage Analysis**. Christopher Maness, **Chad A. Steed**, and Olufemi Omitaomu. *IEEE Visualization Conference Compendium*, pp. 1–2.](/publications/InfoVis2012/InfoVis2012-Paper.pdf)
+A5. [**Practical Web Based Visualization for Comparative Energy Usage Analysis**. Christopher Maness, **Chad A. Steed**, and Olufemi Omitaomu. *IEEE Visualization Conference Compendium*, pp. 1–2.](/publications/files/abstracts/IV_2012.pdf) [[Poster]](/publications/files/abstracts/IV_2012_poster.pdf)
 
 A4. **Scale Dependency in Dynamic Downscaling of Extreme Climate Events over Complex Topography**. David J. Erickson, Auroop R. Ganguly, Robert James Oglesby, Evan A. Kodra, Debasish Das, Anthony W. King, Cindy Hays, **Chad Steed**, Robert Patton, and Chris Lenhardt. *AGU 2011 Fall Meeting*, Dec. 2011.
 
 A3. **Scale Dependency in Dynamic Downscaling of Extreme Climate Events Over Complex Topography**. Debasish Das, Evan Kodra, Karsten Steinhaeuser, Shih-Chieh Kao, Auroop R. Ganguly, Marcia L. Branstetter, David J. Erickson, Raymond Flanery, Maria Martinez Gonzalez, Cynthia Hays, Anthony W. King, Christopher Lenhardt, Robert Oglesby, Robert M. Patton, Clinton M. Rowe, Alexander Sorokine, **Chad Steed**. *AGU Fall Meeting Poster Session*, Dec. 2010.
 
-A2. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, J. Edward Swan II, and Robert J. Moorhead. *IEEE Visualization Conference Compendium*, pp. 1-2, Oct. 2009.](/publications/VIS2009/VIS2009-paper.pdf)
+A2. [**Illustrative Visualization of Hurricane Advisory Information**. **Chad A. Steed**, T.J. Jankun-Kelly, J. Edward Swan II, and Robert J. Moorhead. *IEEE Visualization Conference Compendium*, pp. 1-2, Oct. 2009.](/publications/files/abstracts/VIS_2009.pdf) [[Poster]](/publications/files/abstracts/VIS_2009_poster.pdf)
 
-A1. [**Practical Application of Parallel Coordinates to Hurricane Trend Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *IEEE Information Visualization Conference Compendium*, pp. 4-5, Oct. 2007.](/publications/InfoVis2007/InfoVis2007.pdf)
+A1. [**Practical Application of Parallel Coordinates to Hurricane Trend Analysis**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, Amber N. Yancey, and J. Edward Swan II. *IEEE Information Visualization Conference Compendium*, pp. 4-5, Oct. 2007.](/publications/files/abstracts/IV_2007.pdf) [[Poster]](/publications/files/abstracts/IV_2007_poster.pdf)
 
 
 ## WORKSHOP AND POSITION PAPERS
@@ -159,7 +159,7 @@ W1. **A Method for Overcoming Discontinuity Between Neighboring UTM Zone Grids**
 
 ---
 
-D1. [**Development of a Geovisual Analytics Environment using Parallel Coordinates with Applications to Tropical Cyclone Trend Analysis**. **Chad A. Steed**. PhD Dissertation, Computer Science and Engineering Department, Mississippi State University, 221 pp., Dec. 2008.](/publications/DISS2008/SteedDISS2008.pdf)
+D1. [**Development of a Geovisual Analytics Environment using Parallel Coordinates with Applications to Tropical Cyclone Trend Analysis**. **Chad A. Steed**. PhD Dissertation, Computer Science and Engineering Department, Mississippi State University, 221 pp., Dec. 2008.](/publications/files/books/SteedMSU2008.pdf)
 
 
 ## PATENTS
