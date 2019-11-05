@@ -118,31 +118,31 @@ A1. [**Practical Application of Parallel Coordinates to Hurricane Trend Analysis
 
 W19. **Application of Data Analytics to Additive Manufacturing**. Sarah Powers, Ryan Dehoff, Vincent Paquit, **Chad A. Steed**, and Derek Kistler. *Proceedings of the INFORMS Workshop on Data Mining and Decision Analytics*, Nov. 2016.
 
-W18. [**Immersive Visual Analytics for Transformative Neutron Scattering Science**. **Chad A. Steed**, Jamison Daniel, Margaret Drouhard, Thomas Proffen, and Steven Hahn. *Proceedings of the Workshop on Immersive Analytics at IEEE Virtual Reality 2016*, Mar. 2016.](/publications/IA2016/IA2016.pdf)
+W18. [**Immersive Visual Analytics for Transformative Neutron Scattering Science**. **Chad A. Steed**, Jamison Daniel, Margaret Drouhard, Thomas Proffen, and Steven Hahn. *Proceedings of the Workshop on Immersive Analytics at IEEE Virtual Reality 2016*, Mar. 2016.](/publications/files/workshops/IA_2016.pdf)
 
-W17. [**Dr. Twitter: The Logistics of Practical Disease Surveillance using Social Media**. Shannon Quinn, Arvind Ramanathan, Laura Pullum, and **Chad A. Steed**. *Proceedings of the Web-based Public Health Informatics Workshop at IEEE BHI 2016*, Feb. 2016.](/publications/BHI/quinn_bhi_2016.pdf)
+W17. [**Dr. Twitter: The Logistics of Practical Disease Surveillance using Social Media**. Shannon Quinn, Arvind Ramanathan, Laura Pullum, and **Chad A. Steed**. *Proceedings of the Web-based Public Health Informatics Workshop at IEEE BHI 2016*, Feb. 2016.](/publications/files/workshops/BHI_2016.pdf)
 
-W16. **Visualizing Execution Traces with Task Dependencies**. Blake Haugen, Stephen Richmond, Jakub Kurzak, **Chad A. Steed**, and Jack Dongarra. *Proceedings of the Workshop on Visual Performance Analysis at SC15*, Nov. 2015.
+W16. [**Visualizing Execution Traces with Task Dependencies**. Blake Haugen, Stephen Richmond, Jakub Kurzak, **Chad A. Steed**, and Jack Dongarra. *Proceedings of the Workshop on Visual Performance Analysis at SC15*, Nov. 2015.](/publications/files/workshops/VPA_2015.pdf)
 
-W15. **Immersive Visualization for Materials Science Data Analysis using the Oculus Rift**. Margaret Drouhard, **Chad A. Steed**, Steven Hahn, Thomas Proffen, Jamison Daniel, and Michael Matheson. *Proceedings of the Workshop on Advances in Software and Hardware for Big Data to Knowledge Discovery at IEEE Big Data 2015*, pp. 2453–2461, Oct. 2015.
+W15. [**Immersive Visualization for Materials Science Data Analysis using the Oculus Rift**. Margaret Drouhard, **Chad A. Steed**, Steven Hahn, Thomas Proffen, Jamison Daniel, and Michael Matheson. *Proceedings of the Workshop on Advances in Software and Hardware for Big Data to Knowledge Discovery at IEEE Big Data 2015*, pp. 2453–2461, Oct. 2015.](/publications/files/workshops/BD_2015.pdf)
 
-W14. [**Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems**. **Chad A. Steed**, Justin Beaver, Paul L. Bogen II, Margaret Drouhard, and Joshua Pyle. *Proceedings of the ACM IUI Visual Text Analytics Workshop*, Mar. 2015.](/publications/TEXTVIS2015/Steed-TextVis2015.pdf)
+W14. [**Text Stream Trend Analysis using Multiscale Visual Analytics with Applications to Social Media Systems**. **Chad A. Steed**, Justin Beaver, Paul L. Bogen II, Margaret Drouhard, and Joshua Pyle. *Proceedings of the ACM IUI Visual Text Analytics Workshop*, Mar. 2015.](/publications/files/workshops/TV_2015.pdf) [[Slides]](/publications/files/workshops/TV_2015_slides.pdf)
 
-W13. [**Extreme Scale Visual Analytics**. **Chad A. Steed**, Thomas E. Potok, Laura L. Pullum, Arvind Ramanathan, Galen Shipman, and Peter E. Thornton. *Proceedings of the Workshop on Petascale Data Analytics at SC13*, Nov. 2013.](/publications/SC13/Steed-SC13.pdf)
+W13. [**Extreme Scale Visual Analytics**. **Chad A. Steed**, Thomas E. Potok, Laura L. Pullum, Arvind Ramanathan, Galen Shipman, and Peter E. Thornton. *Proceedings of the Workshop on Petascale Data Analytics at SC13*, Nov. 2013.](/publications/files/workshops/SC_2013.pdf)
 
-W12. [**Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, and Chakra S. Chennubhotla. *Proceedings of IEEE VAST Workshop on Public Health’s Wicked Problems: Can InfoVis Save Lives?*, Oct. 2013.](/publications/VAST13/ORBIT-VAST13.pdf)
+W12. [**Oak Ridge Bio-surveillance Toolkit**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, and Chakra S. Chennubhotla. *Proceedings of IEEE VAST Workshop on Public Health’s Wicked Problems: Can InfoVis Save Lives?*, Oct. 2013.](/publications/files/workshops/VAST_2013.pdf)
 
-W11. [**Integrating Heterogeneous Healthcare Datasets and Visual Analytics for Disease Bio-surveillance and Dynamics**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, Chakra S. Chennubhotla, and Tara Parker. *Proceedings of the Interactive Visual Text Analytics Workshop*, Oct. 2013.](/publications/TEXTVIS13/Ramanathan-TextVis2013.pdf)
+W11. [**Integrating Heterogeneous Healthcare Datasets and Visual Analytics for Disease Bio-surveillance and Dynamics**. Arvind Ramanathan, Laura L. Pullum, **Chad A. Steed**, Shannon S. Quinn, Chakra S. Chennubhotla, and Tara Parker. *Proceedings of the Interactive Visual Text Analytics Workshop*, Oct. 2013.](/publications/files/workshops/TV_2013.pdf)
 
 W10. **A Pilot Study on Functional Unit Testing for Community Land Model**. Dali Wang, Yang Xu, Peter Thornton, Anthony King, and **Chad A. Steed**. *Proceedings of the Computational Data Analytics Workshop (CDAW-13)*, Oct. 2013.
 
 W9. **Visualizing Community Resilience Metrics from Twitter Data**. Robert Patton, **Chad A. Steed**, Chris Stahl. *The Workshop on Social Media Visualization (ICWSM-13)*, Jul. 2013.
 
-W8. [**Interactive Visual Analysis of High Throughput Text Streams**. **Chad A. Steed**, Thomas E. Potok, Robert M. Patton, John R. Goodall, Christopher Maness, James Senter. *Proceedings of the Interactive Visual Text Analytics Workshop at VIS2012*, Oct. 2012.](/publications/TEXTVIS2012/steed-etal-ivta-2012.pdf)
+W8. [**Interactive Visual Analysis of High Throughput Text Streams**. **Chad A. Steed**, Thomas E. Potok, Robert M. Patton, John R. Goodall, Christopher Maness, James Senter. *Proceedings of the Interactive Visual Text Analytics Workshop at VIS2012*, Oct. 2012.](/publications/files/workshops/TV_2012.pdf)
 
 W7. **An Integrated Geovisual Analytics Framework for Analysis of Energy Consumption Data and Renewable Energy Potentials**. Olufemi A. Omitaomu, Christopher S. Maness, Ian S. Kramer, Jeffrey B. Kodysh, Budhendra L. Bhaduri, **Chad A. Steed**, Rajasekar Karthik, Philip J. Nugent, Aaron T. Myers. *Proceedings of the GeoSpatial Visual Analytics Workshop at GIScience*, Sep. 2012.
 
-W6. [**North Atlantic Hurricane Trend Analysis using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of the GeoSpatial Visual Analytics Workshop*, pp. 1-4, Sep. 2008.](/publications/GEOVA08/Steed-GEOVA08.pdf)
+W6. [**North Atlantic Hurricane Trend Analysis using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. *Proceedings of the GeoSpatial Visual Analytics Workshop*, pp. 1-4, Sep. 2008.](/publications/files/workshops/GVA_2008.pdf)
 
 W5. **Algorithm for Bathymetry Fusion with Uncertainty Assessment**. Paul Elmore and **Chad A. Steed**. *Proceedings of the NRL Technical Metrics Workshop*, May 2008.
 
@@ -177,52 +177,52 @@ P1.   **Information Assisted Visual Interface, System, and Method for Identifyin
 
 ---
 
-T25.   [**Falcon: A Temporal Visual Analytics System Applied to the Analysis of 3D Printer Log Data**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. ORNL Technical Report, *ORNL/TM-2016/393*, Oak Ridge National Laboratory, Aug. 2016. 25 pp.](/publications/TR393/Steed-etal-Falcon-TM2016_393.pdf)
+T25.   [**Falcon: A Temporal Visual Analytics System Applied to the Analysis of 3D Printer Log Data**. **Chad A. Steed**, Ryan Dehoff, William Halsey, Sean Yoder, Vincent Paquit, and Sarah Powers. ORNL Technical Report, *`ORNL/TM-2016/393`*, Oak Ridge National Laboratory, Aug. 2016. 25 pp.](/publications/files/reports/Steed-etal-Falcon-TM2016_393.pdf)
 
-T24.   **Ultrascale Visualization Climate Data Analysis Tools**. Dean N. Williams, Andrew Bauer, Aashish Chaudhary, Berk Geveci, Harinarayan Krishnan, David Bader, Timo Bremer, Charles Doutriaux, Daniel Fedor-Thurman, Matthew Harris, Elo Leung, Renata McCoy, James Ahrens, Curt Canada, Phil Jones, Boonthanome Nouanesengsy, John Patchett, Sean Williams, Thomas Maxwell, Gerald Potter, Cecelia DeLuca, Ryan O’Kuinghttons, Robert Oehmke, David Pugmire, Galen Shipman, Brian Smith, **Chad Steed**, Ben Burnett, Aritra Dasgupta, Tommy Ellqvist, David Koop, Emanuele Marques, Jorge Poco, Remi Rampin, Claudio Silva, Huy Vo, David Kindig, Alexander Pletzer, Cameron Christensen, Sidharth Kumar, Valerio Pascucci, Giorgio Scorzelli, Brian Summa. LLNL Technical Report, *LLNL-TR-643624*, Lawrence Livermore National Laboratory, Sep. 2013. 96 pp.
+T24.   **Ultrascale Visualization Climate Data Analysis Tools**. Dean N. Williams, Andrew Bauer, Aashish Chaudhary, Berk Geveci, Harinarayan Krishnan, David Bader, Timo Bremer, Charles Doutriaux, Daniel Fedor-Thurman, Matthew Harris, Elo Leung, Renata McCoy, James Ahrens, Curt Canada, Phil Jones, Boonthanome Nouanesengsy, John Patchett, Sean Williams, Thomas Maxwell, Gerald Potter, Cecelia DeLuca, Ryan O’Kuinghttons, Robert Oehmke, David Pugmire, Galen Shipman, Brian Smith, **Chad Steed**, Ben Burnett, Aritra Dasgupta, Tommy Ellqvist, David Koop, Emanuele Marques, Jorge Poco, Remi Rampin, Claudio Silva, Huy Vo, David Kindig, Alexander Pletzer, Cameron Christensen, Sidharth Kumar, Valerio Pascucci, Giorgio Scorzelli, Brian Summa. LLNL Technical Report, *`LLNL-TR-643624`*, Lawrence Livermore National Laboratory, Sep. 2013. 96 pp.
 
-T23. [**Guided Text Search Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher T. Symons, James K. Senter, and Frank A. DeNap. ORNL Technical Report, *ORNL/TM-2012/479*, Oak Ridge National Laboratory, Oct. 2012. 20 pp.](/publications/TR-GRYFFIN/SteedGryffinTR.pdf)
+T23. [**Guided Text Search Using Adaptive Visual Analytics**. **Chad A. Steed**, Christopher T. Symons, James K. Senter, and Frank A. DeNap. ORNL Technical Report, *`ORNL/TM-2012/479`*, Oak Ridge National Laboratory, Oct. 2012. 20 pp.](/publications/files/reports/SteedGryffinTR.pdf)
 
-T22. **A Visual Analytics Approach for Correlation, Classification, and Regression Analysis**. **Chad A. Steed**, J. Edward Swan II, Patrick J. Fitzpatrick, and T.J. Jankun-Kelly. ORNL Technical Report, *ORNL/TM-2012/68*, Oak Ridge National Laboratory, Feb. 2012. 30 pp.
+T22. **A Visual Analytics Approach for Correlation, Classification, and Regression Analysis**. **Chad A. Steed**, J. Edward Swan II, Patrick J. Fitzpatrick, and T.J. Jankun-Kelly. ORNL Technical Report, *`ORNL/TM-2012/68`*, Oak Ridge National Laboratory, Feb. 2012. 30 pp.
 
-T21. **Massively Parallel Algorithms for Scalable Exascale Analysis**. Yu Jiao, Erik Ferragut, Sudharshan Vazhkudai, Stuart Campbell, Mark Hagen, Stephen Miller, Christopher Griffin, and **Chad A. Steed**. *ORNL LDRD Report 31964*, Oak Ridge National Laboratory, Oct. 2011. 2 pp.
+T21. **Massively Parallel Algorithms for Scalable Exascale Analysis**. Yu Jiao, Erik Ferragut, Sudharshan Vazhkudai, Stuart Campbell, Mark Hagen, Stephen Miller, Christopher Griffin, and **Chad A. Steed**. *`ORNL LDRD Report 31964`*, Oak Ridge National Laboratory, Oct. 2011. 2 pp.
 
-T20. **Under Sea Warfare Visual Analytics: Fiscal Year 2010 Prototype System Report**. **Chad A. Steed**, Jeffrey Russell, and J. Paquin Fabre. Memorandum Report, *NRL/MR/7440–10-9285*, U.S. Naval Research Laboratory, Nov. 2010. 13 pp.
+T20. **Under Sea Warfare Visual Analytics: Fiscal Year 2010 Prototype System Report**. **Chad A. Steed**, Jeffrey Russell, and J. Paquin Fabre. Memorandum Report, *`NRL/MR/7440–10-9285`*, U.S. Naval Research Laboratory, Nov. 2010. 13 pp.
 
-T19. **Geophysical Data Base Variable Resolution Version 2: Final Design Report**. **Chad A. Steed**, Chiu-Fu "Tiger" Cheng, and David W. Harvey. Memorandum Report, *NRL/MR/7440–09-9229*, U.S. Naval Research Laboratory, April 2010. 16 pp.
+T19. **Geophysical Data Base Variable Resolution Version 2: Final Design Report**. **Chad A. Steed**, Chiu-Fu "Tiger" Cheng, and David W. Harvey. Memorandum Report, *`NRL/MR/7440–09-9229`*, U.S. Naval Research Laboratory, April 2010. 16 pp.
 
-T18. **Environmental Components Integrations and Dissemination (ECID) Study Preliminary Report**. Kevin Shaw, John Sample, and **Chad Steed**. Formal Report, *NRL/FR/7440–09-10,177*, U.S. Naval Research Laboratory, Dec. 2009. 30 pp.
+T18. **Environmental Components Integrations and Dissemination (ECID) Study Preliminary Report**. Kevin Shaw, John Sample, and **Chad Steed**. Formal Report, *`NRL/FR/7440–09-10,177`*, U.S. Naval Research Laboratory, Dec. 2009. 30 pp.
 
-T17. **Geophysical Data Base Variable Resolution Version 2: Planning Report**. **Chad A. Steed** and David W. Harvey. Formal Report, *NRL/FR/7440–08-10,173*, U.S. Naval Research Laboratory, Jan. 2009. 12 pp.
+T17. **Geophysical Data Base Variable Resolution Version 2: Planning Report**. **Chad A. Steed** and David W. Harvey. Formal Report, *`NRL/FR/7440–08-10,173`*, U.S. Naval Research Laboratory, Jan. 2009. 12 pp.
 
-T16. [**Algorithm Design Study for Bathymetry Fusion: Review of Current State-of-the-Art and Recommended Design Approach**. Paul A. Elmore and **Chad A. Steed**. Formal Report, *NRL/FR/7440–08-10,162*, U.S. Naval Research Laboratory, Oct. 2008. 26 pp.](/publications/TR162/Elmore-TR162.pdf)
+T16. [**Algorithm Design Study for Bathymetry Fusion: Review of Current State-of-the-Art and Recommended Design Approach**. Paul A. Elmore and **Chad A. Steed**. Formal Report, *`NRL/FR/7440–08-10,162`*, U.S. Naval Research Laboratory, Oct. 2008. 26 pp.](/publications/files/reports/Elmore-TR162.pdf)
 
-T15. [**Visual Analysis of North Atlantic Hurricane Trends Using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9130*, U.S. Naval Research Laboratory, Jul. 2008. 18 pp.](/publications/TR9130/Steed-TR9130.pdf)
+T15. [**Visual Analysis of North Atlantic Hurricane Trends Using Parallel Coordinates and Statistical Techniques**. **Chad A. Steed**, Patrick J. Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *`NRL/MR/7440–08-9130`*, U.S. Naval Research Laboratory, Jul. 2008. 18 pp.](/publications/files/reports/Steed-TR9130.pdf)
 
-T14. [**An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *NRL/MR/7440–08-9126*, U.S. Naval Research Laboratory, Jun. 2008. 25 pp.](/publications/TR9126/Steed-TR9126.pdf)
+T14. [**An Interactive Parallel Coordinates Technique Applied to a Tropical Cyclone Climate Analysis**. **Chad A. Steed**, Patrick Fitzpatrick, T.J. Jankun-Kelly, and J. Edward Swan II. Memorandum Report, *`NRL/MR/7440–08-9126`*, U.S. Naval Research Laboratory, Jun. 2008. 25 pp.](/publications/files/reports/Steed-TR9126.pdf)
 
-T13. **AUV Data Assimilation: Requirements, Limitations, and Recommendations**. Michael M. Harris, William E. Avera, and **Chad A. Steed**. Formal Report, *NRL/FR/7440–08-1060*, U.S. Naval Research Laboratory, May 2008. 18 pp.
+T13. **AUV Data Assimilation: Requirements, Limitations, and Recommendations**. Michael M. Harris, William E. Avera, and **Chad A. Steed**. Formal Report, *`NRL/FR/7440–08-1060`*, U.S. Naval Research Laboratory, May 2008. 18 pp.
 
-T12. **AN/AQS-20 Environmental Data Collection: End-to-End Demonstration 3, Tactical Sensor to Tactical Decision Aid, June 1 Through 3, 2005**. Michael M. Harris, William E. Avera, John T. Sample, **Chad A. Steed**, Leonard D. Bibee, and Dave Morgerson. Formal Report, *NRL/FR/7440–06-10,134*, U.S. Naval Research Laboratory, Jul. 2006. 66 pp.
+T12. **AN/AQS-20 Environmental Data Collection: End-to-End Demonstration 3, Tactical Sensor to Tactical Decision Aid, June 1 Through 3, 2005**. Michael M. Harris, William E. Avera, John T. Sample, **Chad A. Steed**, Leonard D. Bibee, and Dave Morgerson. Formal Report, *`NRL/FR/7440–06-10,134`*, U.S. Naval Research Laboratory, Jul. 2006. 66 pp.
 
-T11. **Standard Operating Procedure for the AQS-20 Rapid Transition Project: NAVOCEANO Value Added Processes**. **Chad A. Steed**. Memorandum Report *NRL/MR/7440–06-8936*, U.S. Naval Research Laboratory, Mar. 2006. 7 pp.
+T11. **Standard Operating Procedure for the AQS-20 Rapid Transition Project: NAVOCEANO Value Added Processes**. **Chad A. Steed**. Memorandum Report *`NRL/MR/7440–06-8936`*, U.S. Naval Research Laboratory, Mar. 2006. 7 pp.
 
-T10. **SeaBED User’s Guide**. **Chad A. Steed**, Kevyn Malpass, Edward Braithwaite, Michael M. Harris, William E. Avera, and John T. Sample. Formal Report, *NRL/FR/7440–06-10,128*, U.S. Naval Research Laboratory, Mar. 2006. 50 pp.
+T10. **SeaBED User’s Guide**. **Chad A. Steed**, Kevyn Malpass, Edward Braithwaite, Michael M. Harris, William E. Avera, and John T. Sample. Formal Report, *`NRL/FR/7440–06-10,128`*, U.S. Naval Research Laboratory, Mar. 2006. 50 pp.
 
-T9. **AN/AQS-20 Environmental Data Collection Demonstration 2**, March 21-25, 2005. Michael M. Harris, William E. Avera, **Chad A. Steed**, and John T. Sample. Formal Report *NRL/FR/7440–05-10,113*, U.S. Naval Research Laboratory, Dec. 2005. 63 pp.
+T9. **AN/AQS-20 Environmental Data Collection Demonstration 2**, March 21-25, 2005. Michael M. Harris, William E. Avera, **Chad A. Steed**, and John T. Sample. Formal Report *`NRL/FR/7440–05-10,113`*, U.S. Naval Research Laboratory, Dec. 2005. 63 pp.
 
-T8. **Through-The-Sensor Determination of AN/AQS-20 Sensor Performance Demonstration 1, December 13 through 17, 2004**. Michael M. Harris, William E. Avera, **Chad A. Steed**, Leonard D. Bibee, Warren T. Wood, William D. Morgerson, and Christopher S. Robinson. Formal Report, *NRL/FR/7440–05-10,106*, U.S. Naval Research Laboratory, Jun. 2005. 21 pp.
+T8. **Through-The-Sensor Determination of AN/AQS-20 Sensor Performance Demonstration 1, December 13 through 17, 2004**. Michael M. Harris, William E. Avera, **Chad A. Steed**, Leonard D. Bibee, Warren T. Wood, William D. Morgerson, and Christopher S. Robinson. Formal Report, *`NRL/FR/7440–05-10,106`*, U.S. Naval Research Laboratory, Jun. 2005. 21 pp.
 
-T7. **Results of the Conversion of the OAML SST to the GDBV Format**. **Chad A. Steed**. Formal Report, *NRL/FR/7440–04-10,083*, U.S. Naval Research Laboratory, Sep. 2004. 15 pp.
+T7. **Results of the Conversion of the OAML SST to the GDBV Format**. **Chad A. Steed**. Formal Report, *`NRL/FR/7440–04-10,083`*, U.S. Naval Research Laboratory, Sep. 2004. 15 pp.
 
 T6. **GAIT GDBV Quick Start Guide**. **Chad A. Steed**. Memorandum Report, *NRL/MR/7440–04-8772*, U.S. Naval Research Laboratory, May 2004. 8 pp.
 
-T5. **Geophysical Data Base Variable Resolution (GDBV): Database Definition Document**. **Chad A. Steed**. Formal Report, *NRL/FR/7440–03-10,063*, U.S. Naval Research Laboratory, Dec. 2003. 27 pp.
+T5. **Geophysical Data Base Variable Resolution (GDBV): Database Definition Document**. **Chad A. Steed**. Formal Report, *`NRL/FR/7440–03-10,063`*, U.S. Naval Research Laboratory, Dec. 2003. 27 pp.
 
-T4. [**OAML Feathering Algorithm Overview**. **Chad A. Steed** and William E. Rankin. Formal Report *NRL/FR/7440–03-10,052*, U.S. Naval Research Laboratory, May 2003. 10 pp.](/publications/TR052/Steed-TR052.pdf)
+T4. [**OAML Feathering Algorithm Overview**. **Chad A. Steed** and William E. Rankin. Formal Report *`NRL/FR/7440–03-10,052`*, U.S. Naval Research Laboratory, May 2003. 10 pp.](/publications/files/reports/Steed-TR052.pdf)
 
-T3. [**Analysis of Global and Selected Geographic Areas with Depths Between 50 and 100 Feet**. John T. Sample, **Chad A. Steed**, Frank P. McCreedy, and Michael M. Harris. Memorandum Report, *NRL/MR/7440–03-8295*, U.S. Naval Research Laboratory, Feb. 2003. 23 pp.](/publications/TR8295/Sample-TR8295.pdf)
+T3. [**Analysis of Global and Selected Geographic Areas with Depths Between 50 and 100 Feet**. John T. Sample, **Chad A. Steed**, Frank P. McCreedy, and Michael M. Harris. Memorandum Report, *`NRL/MR/7440–03-8295`*, U.S. Naval Research Laboratory, Feb. 2003. 23 pp.](/publications/files/reports/Sample-TR8295.pdf)
 
-T2. **A Flat Earth Model for DBDB-V**. **Chad A. Steed** and James E. Braud. Formal Report, *NRL/FR/7440–02-10,025*, U.S. Naval Research Laboratory, Aug. 2002. 12 pp.
+T2. **A Flat Earth Model for DBDB-V**. **Chad A. Steed** and James E. Braud. Formal Report, *`NRL/FR/7440–02-10,025`*, U.S. Naval Research Laboratory, Aug. 2002. 12 pp.
 
-T1. **PUMA-TEDS Technical Execution Plan**. **Chad A. Steed**, Jerry Landrum, and Christopher Moreau. Formal Report, *NRL/FR/7440-02-10,003*, U.S. Naval Research Laboratory, Jun. 2002. 32 pp.
+T1. **PUMA-TEDS Technical Execution Plan**. **Chad A. Steed**, Jerry Landrum, and Christopher Moreau. Formal Report, *`NRL/FR/7440-02-10,003`*, U.S. Naval Research Laboratory, Jun. 2002. 32 pp.

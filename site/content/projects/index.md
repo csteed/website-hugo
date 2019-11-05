@@ -109,8 +109,8 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         <h3>Falcon</h3>
         <p>Falcon is a temporal visual analytics system for exploring long, complex, and multivariate time series data.<br/>
         <b>Software:</b> <a class="nav" href="https://github.com/csteed/falcon">Github</a><br/>
-        <b>Papers:</b> <a class="nav" href="../publications/CAG2017/Steed_CAG2017.pdf">CAG17</a>, <a class="nav" href="../publications/LDAV2016/LDAV2016-Abstract.pdf">LDAV16</a>, <a class="nav" href="../publications/TR393/Steed-etal-Falcon-TM2016_393.pdf">FalconTR393</a><br/>
-        <b>Poster:</b> <a class="nav" href="../publications/LDAV2016/LDAV2016-Poster.pdf">LDAV16</a><br/>
+        <b>Papers:</b> <a class="nav" href="/publications/files/journals/CAG_2017.pdf">CAG17</a>, <a class="nav" href="/publications/files/abstracts/VDS_2016.pdf">VDS16</a>, <a class="nav" href="/publications/files/reports/Steed-etal-Falcon-TM2016_393.pdf">FalconTR393</a><br/>
+        <b>Poster:</b> <a class="nav" href="/publications/files/abstracts/LDAV_2016_poster.pdf">LDAV16</a><br/>
         <b>Video:</b> <a class="nav" href="https://youtu.be/0MeYx3g91D4" target="_blank">ORNL Highlight</a><br/>
         </p>
     </div>
@@ -128,7 +128,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         scattering scientists at <a class="nav" href="https://neutrons.ornl.gov/sns">ORNL's Spallation
             Neutron Source</a>.<br/>
         <b>Software:</b> <a class="nav" href="https://github.com/mdrouhard/gaze-interaction-test">Gaze Interaction Demo</a>, <a class="nav" href="https://github.com/mdrouhard/turbine-exploration">Turbine Exploration Demo</a><br/>
-        <b>Papers:</b> <a class="nav" href="../publications/IA2016/IA2016.pdf">IA2016</a>, <a class="nav" href="http://doi.org/10.1109/BigData.2015.7364040">ASH2015</a><br/>
+        <b>Papers:</b> <a class="nav" href="/publications/files/workshops/IA_2016.pdf">IA2016</a>, <a class="nav" href="/publications/files/workshops/BD_2015.pdf">ASH2015</a><br/>
         <b>News:</b> <a class="nav" href="http://www.orau.org/ornl/graduate-students/profile-meg-drouhard.htm">ORAU Profile</a><br/>
         </p>
     </div>
@@ -142,7 +142,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
         <h3>EDEN</h3>
         <p>EDEN is an interactive visual analytics system for multivariate data analysis that extends the parallel coordinates information visualization technique providing new statistical analysis capabilities.<br/>
         <b>Software:</b> <a class="nav" href="https://github.com/csteed/eden">Github</a><br/>
-        <b>Papers:</b> <a class="nav" href="http://dx.doi.org/10.1016/j.cageo.2013.07.025">CAGEO13</a>, <a class="nav" href="http://doi.org/10.1109/MC.2013.119">COMP13</a>, <a class="nav" href="http://doi.org/10.1016/j.procs.2012.04.094">ICCS12</a><br/>
+        <b>Papers:</b> <a class="nav" href="/publications/files/journals/CAGEO_2013.pdf">CAGEO13</a>, <a class="nav" href="/publications/files/journals/COMP_2013.pdf">COMP13</a>, <a class="nav" href="/publications/files/conferences/ICCS_2012.pdf">ICCS12</a><br/>
         <!-- <b>Slides:</b><br/> -->
         </p>
     </div>
@@ -169,7 +169,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
     <div id="project_text">
         <h3>Matisse</h3>
         <p>Matisse is a visual analytics system for exploring sentiment and emotion trends in social media text streams.<br/>
-        <b>Papers:</b> <a class="nav" href="http://doi.org/10.1109/BigData.2015.7363826">BigData15</a>, <a class="nav" href="../publications/TEXTVIS2015/Steed-TextVis2015.pdf">TextVis15</a>, <a class="nav" href="../publications/TEXTVIS2012/steed-etal-ivta-2012.pdf">TextVis12</a><br/>
+        <b>Papers:</b> <a class="nav" href="/publications/files/conferences/BD_2015.pdf">BigData15</a>, <a class="nav" href="/publications/files/workshops/TV_2015.pdf">TextVis15</a>, <a class="nav" href="/publications/files/workshops/TV_2012.pdf">TextVis12</a><br/>
         <!-- <b>Slides:</b><br/> -->
         </p>
     </div>
@@ -182,7 +182,7 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
     <div id="project_text">
         <h3>Gryffin</h3>
         <p>Gryffin is a text visual analytics system for searching large document repositories. It includes machine learning component that learns interesting documents based on the user interactions.<br/>
-        <b>Papers:</b> <a class="nav" href="http://doi.org/10.1117/12.904904">vda12</a>, <a class="nav" href="../publications/TR-GRYFFIN/SteedGryffinTR.pdf">GryffinTR2012</a><br/>
+        <b>Papers:</b> <a class="nav" href="/publications/files/conferences/VDA_2012.pdf">VDA12</a>, <a class="nav" href="/publications/files/reports/SteedGryffinTR.pdf">GryffinTR2012</a><br/>
         <!-- <b>Slides:</b><br/> -->
         </p>
     </div>
@@ -219,9 +219,9 @@ Other web visualization examples are available on my [bl.ocks.org](https://bl.oc
     <div id="project_text">
         <h3>MDX</h3>
         <p>MDX is a visual analytics system for exploring multivariate data. In my dissertation research, MDX was applied extensively to tropical cyclone season prediction variables and it includes a stepwise regression component that automatically ranks predictors for a variable of interest.<br/>
-        <b>Papers:</b> <a class="nav" href="http://doi.org/10.4018/978-1-4666-4309-3.ch002">INNOVIS13</a>, <a class="nav" href="http://doi.org/10.1109/VAST.2009.5332586">VAST09</a>, <a class="nav" href="http://doi.org/10.1559/152304009788988314">CAGIS09</a>, <a class="nav" href="http://doi.org/10.1016/j.cageo.2008.11.004">CAGEO09</a>, <a class="nav" href="../publications/DISS2008/SteedDISS2008.pdf">DISS08</a>,  <a class="nav" href="../publications/GEOVA08/Steed-GEOVA08.pdf">GEOVA08</a>, <a class="nav" href="../publications/TR9130/Steed-TR9130.pdf">TR9130</a>, <a class="nav" href="../publications/TR9126/Steed-TR9126.pdf">TR9126</a>, <a class="nav" href="../publications/InfoVis2007/InfoVis2007.pdf">IV07</a>
+        <b>Papers:</b> <a class="nav" href="http://doi.org/10.4018/978-1-4666-4309-3.ch002">INNOVIS13</a>, <a class="nav" href="/publications/files/conferences/VAST_2009.pdf">VAST09</a>, <a class="nav" href="/publications/files/journals/CAGIS_2009.pdf">CAGIS09</a>, <a class="nav" href="/publications/files/journals/CAGEO_2009.pdf">CAGEO09</a>, <a class="nav" href="/publications/files/books/SteedMSU2008.pdf">DISS08</a>,  <a class="nav" href="/publications/files/workshops/GVA_2008.pdf">GEOVA08</a>, <a class="nav" href="/publications/files/reports/Steed-TR9130.pdf">TR9130</a>, <a class="nav" href="/publications/files/reports/Steed-TR9126.pdf">TR9126</a>, <a class="nav" href="/publications/files/abstracts/IV_2007.pdf">IV07</a>
         <br/>
-        <b>Poster:</b> <a class="nav" href="../publications/InfoVis2007/InfoVis2007-poster.pdf">IV07</a><br/>
+        <b>Poster:</b> <a class="nav" href="/publications/files/abstracts/IV_2007_poster.pdf">IV07</a><br/>
         </p>
     </div>
     <div id="project_img">
